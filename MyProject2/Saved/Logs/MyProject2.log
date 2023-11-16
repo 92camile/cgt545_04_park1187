@@ -1134,3 +1134,246 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.16-23.15.45:715][323]LogViewport: Scene viewport resized to 1129x671, mode Windowed.
 [2023.11.16-23.15.45:759][325]LogViewport: Scene viewport resized to 1129x682, mode Windowed.
 [2023.11.16-23.15.45:801][327]LogViewport: Scene viewport resized to 1129x688, mode Windowed.
+[2023.11.16-23.17.24:752][910]LogDerivedDataCache: C:/Users/park1187/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1048 files in 1639 folders with total size 25 MiB.
+[2023.11.16-23.19.00:204][282]LogViewport: Scene viewport resized to 1129x654, mode Windowed.
+[2023.11.16-23.19.00:222][283]LogViewport: Scene viewport resized to 1129x625, mode Windowed.
+[2023.11.16-23.19.00:260][284]LogViewport: Scene viewport resized to 1129x548, mode Windowed.
+[2023.11.16-23.19.00:306][286]LogViewport: Scene viewport resized to 1129x456, mode Windowed.
+[2023.11.16-23.19.00:340][288]LogViewport: Scene viewport resized to 1129x244, mode Windowed.
+[2023.11.16-23.19.00:372][290]LogViewport: Scene viewport resized to 1129x184, mode Windowed.
+[2023.11.16-23.19.00:405][292]LogViewport: Scene viewport resized to 1129x151, mode Windowed.
+[2023.11.16-23.19.00:438][294]LogViewport: Scene viewport resized to 1129x135, mode Windowed.
+[2023.11.16-23.19.00:472][296]LogViewport: Scene viewport resized to 1129x122, mode Windowed.
+[2023.11.16-23.19.00:506][298]LogViewport: Scene viewport resized to 1129x115, mode Windowed.
+[2023.11.16-23.19.00:539][300]LogViewport: Scene viewport resized to 1129x112, mode Windowed.
+[2023.11.16-23.19.00:859][319]LogViewport: Scene viewport resized to 1129x116, mode Windowed.
+[2023.11.16-23.19.00:873][320]LogViewport: Scene viewport resized to 1129x118, mode Windowed.
+[2023.11.16-23.19.09:166][617]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-23.19.09:254][618]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-23.19.09:273][619]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-23.19.09:309][620]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-23.19.28:323][369]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-23.19.28:380][371]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: ================================================
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: RAM used: 18.84 KiB of 1.60 GiB budget. Usage: 0.00%
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Job execution time: average 0.68 s, max 0.68 s
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Job life time (pending + execution): average 0.76 s, max 0.76
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.76 s
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Average processing rate: 1.31 jobs/sec
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Total thread time: 0.383 s
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Total thread preprocess time: 0.021 s
+[2023.11.16-23.19.29:259][417]LogShaderCompilers: Display: Percentage time preprocessing: 5.37%
+[2023.11.16-23.19.29:260][417]LogShaderCompilers: Display: Effective parallelization: 0.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.16-23.19.29:260][417]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.11.16-23.19.29:260][417]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.11.16-23.19.29:260][417]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.11.16-23.19.29:260][417]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.11.16-23.19.29:260][417]LogShaderCompilers: Display: ================================================
+[2023.11.16-23.19.29:775][448]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-23.19.29:813][449]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-23.19.29:855][450]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-23.19.29:911][451]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-23.19.46:217][416]LogViewport: Scene viewport resized to 1129x123, mode Windowed.
+[2023.11.16-23.19.46:235][417]LogViewport: Scene viewport resized to 1129x126, mode Windowed.
+[2023.11.16-23.19.46:286][419]LogViewport: Scene viewport resized to 1129x150, mode Windowed.
+[2023.11.16-23.19.46:320][421]LogViewport: Scene viewport resized to 1129x168, mode Windowed.
+[2023.11.16-23.19.46:358][423]LogViewport: Scene viewport resized to 1129x197, mode Windowed.
+[2023.11.16-23.19.46:392][425]LogViewport: Scene viewport resized to 1129x214, mode Windowed.
+[2023.11.16-23.19.46:411][426]LogViewport: Scene viewport resized to 1129x231, mode Windowed.
+[2023.11.16-23.19.46:434][427]LogViewport: Scene viewport resized to 1129x244, mode Windowed.
+[2023.11.16-23.19.46:478][429]LogViewport: Scene viewport resized to 1129x269, mode Windowed.
+[2023.11.16-23.19.46:515][431]LogViewport: Scene viewport resized to 1129x273, mode Windowed.
+[2023.11.16-23.19.46:549][433]LogViewport: Scene viewport resized to 1129x276, mode Windowed.
+[2023.11.16-23.19.46:582][435]LogViewport: Scene viewport resized to 1129x299, mode Windowed.
+[2023.11.16-23.19.46:616][437]LogViewport: Scene viewport resized to 1129x325, mode Windowed.
+[2023.11.16-23.19.46:653][439]LogViewport: Scene viewport resized to 1129x392, mode Windowed.
+[2023.11.16-23.19.46:684][441]LogViewport: Scene viewport resized to 1129x442, mode Windowed.
+[2023.11.16-23.19.46:700][442]LogViewport: Scene viewport resized to 1129x476, mode Windowed.
+[2023.11.16-23.19.46:734][443]LogViewport: Scene viewport resized to 1129x501, mode Windowed.
+[2023.11.16-23.19.46:789][445]LogViewport: Scene viewport resized to 1129x521, mode Windowed.
+[2023.11.16-23.19.46:820][447]LogViewport: Scene viewport resized to 1129x542, mode Windowed.
+[2023.11.16-23.19.46:860][449]LogViewport: Scene viewport resized to 1129x580, mode Windowed.
+[2023.11.16-23.19.46:895][451]LogViewport: Scene viewport resized to 1129x603, mode Windowed.
+[2023.11.16-23.19.46:946][454]LogViewport: Scene viewport resized to 1129x605, mode Windowed.
+[2023.11.16-23.19.49:168][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.16-23.19.56:039][977]LogViewport: Scene viewport resized to 1129x602, mode Windowed.
+[2023.11.16-23.19.56:055][978]LogViewport: Scene viewport resized to 1129x593, mode Windowed.
+[2023.11.16-23.19.56:114][980]LogViewport: Scene viewport resized to 1129x549, mode Windowed.
+[2023.11.16-23.19.56:152][982]LogViewport: Scene viewport resized to 1129x527, mode Windowed.
+[2023.11.16-23.19.56:191][984]LogViewport: Scene viewport resized to 1129x505, mode Windowed.
+[2023.11.16-23.19.56:233][986]LogViewport: Scene viewport resized to 1129x455, mode Windowed.
+[2023.11.16-23.19.56:270][988]LogViewport: Scene viewport resized to 1129x378, mode Windowed.
+[2023.11.16-23.19.56:303][990]LogViewport: Scene viewport resized to 1129x351, mode Windowed.
+[2023.11.16-23.19.56:338][992]LogViewport: Scene viewport resized to 1129x344, mode Windowed.
+[2023.11.16-23.19.56:374][994]LogViewport: Scene viewport resized to 1129x340, mode Windowed.
+[2023.11.16-23.19.56:406][996]LogViewport: Scene viewport resized to 1129x321, mode Windowed.
+[2023.11.16-23.19.56:440][998]LogViewport: Scene viewport resized to 1129x281, mode Windowed.
+[2023.11.16-23.19.56:475][  0]LogViewport: Scene viewport resized to 1129x271, mode Windowed.
+[2023.11.16-23.19.56:506][  2]LogViewport: Scene viewport resized to 1129x256, mode Windowed.
+[2023.11.16-23.19.56:539][  4]LogViewport: Scene viewport resized to 1129x232, mode Windowed.
+[2023.11.16-23.19.56:573][  6]LogViewport: Scene viewport resized to 1129x222, mode Windowed.
+[2023.11.16-23.19.56:607][  8]LogViewport: Scene viewport resized to 1129x209, mode Windowed.
+[2023.11.16-23.19.56:642][ 10]LogViewport: Scene viewport resized to 1129x188, mode Windowed.
+[2023.11.16-23.19.56:658][ 11]LogViewport: Scene viewport resized to 1129x178, mode Windowed.
+[2023.11.16-23.19.56:679][ 12]LogViewport: Scene viewport resized to 1129x176, mode Windowed.
+[2023.11.16-23.20.13:916][229]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.14:907][288]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.32:332][314]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.34:087][418]LogViewport: Scene viewport resized to 1129x179, mode Windowed.
+[2023.11.16-23.20.34:102][419]LogViewport: Scene viewport resized to 1129x181, mode Windowed.
+[2023.11.16-23.20.34:163][421]LogViewport: Scene viewport resized to 1129x251, mode Windowed.
+[2023.11.16-23.20.34:202][423]LogViewport: Scene viewport resized to 1129x336, mode Windowed.
+[2023.11.16-23.20.34:233][425]LogViewport: Scene viewport resized to 1129x430, mode Windowed.
+[2023.11.16-23.20.34:251][426]LogViewport: Scene viewport resized to 1129x450, mode Windowed.
+[2023.11.16-23.20.34:274][427]LogViewport: Scene viewport resized to 1129x538, mode Windowed.
+[2023.11.16-23.20.34:317][429]LogViewport: Scene viewport resized to 1129x609, mode Windowed.
+[2023.11.16-23.20.34:349][431]LogViewport: Scene viewport resized to 1129x644, mode Windowed.
+[2023.11.16-23.20.34:386][433]LogViewport: Scene viewport resized to 1129x658, mode Windowed.
+[2023.11.16-23.20.34:404][434]LogViewport: Scene viewport resized to 1129x665, mode Windowed.
+[2023.11.16-23.20.34:421][435]LogViewport: Scene viewport resized to 1129x666, mode Windowed.
+[2023.11.16-23.20.34:521][440]LogViewport: Scene viewport resized to 1129x667, mode Windowed.
+[2023.11.16-23.20.35:265][480]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-23.20.35:279][480]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.16-23.20.35:280][480]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.16-23.20.35:280][480]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.16-23.20.35:280][480]LogWorldPartition: Display: GetPartitionedActors took 11 us
+[2023.11.16-23.20.35:281][480]LogWorldPartition: Display: GenerateStreaming took 318 us
+[2023.11.16-23.20.35:282][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-23.20.35:285][480]PIE: New page: PIE session: FirstPersonMap (Nov 16, 2023, 1:20:35 PM)
+[2023.11.16-23.20.35:290][480]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.11.16-23.20.35:290][480]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.11.16-23.20.35:291][480]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.16-23.20.35:296][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005501s)
+[2023.11.16-23.20.35:296][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005631s)
+[2023.11.16-23.20.35:298][480]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-23.20.35:298][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-23.20.35:299][480]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.16-23.20.35:299][480]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.16-23.20.35:299][480]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.16-23.20.35:299][480]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.16-23.20.35:301][480]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.16-23.20.35:301][480]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 406 ms)
+[2023.11.16-23.20.35:301][480]LogPlayLevel: PIE: World Init took: (0.004360s)
+[2023.11.16-23.20.35:312][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.16-23.20.35:313][480]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.11.16-23.20.35:313][480]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-23.20.35:313][480]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-23.20.35:313][480]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-23.20.35:313][480]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-23.20.35:313][480]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.16-23.20.35:313][480]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.16-23.20.35:313][480]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.16-23.20.35:313][480]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-23.20.35:314][480]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-23.20.35:314][480]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-23.20.35:314][480]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-23.20.35:316][480]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-23.20.35:431][480]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.11.16-23.20.35:432][480]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-23.20.35:432][480]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-23.20.35:432][480]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-23.20.35:433][480]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.11.16-23.20.35:433][480]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.11.16-23.20.35:435][480]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.11.16-23.20.35:435][480]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.11.16-23.20.35:435][480]LogInit: FAudioDevice initialized with ID 2.
+[2023.11.16-23.20.35:435][480]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2023.11.16-23.20.35:435][480]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.16-23.20.35:439][480]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.16-23.20.35:442][480]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2023.11.16-18.20.35
+[2023.11.16-23.20.35:442][480]LogWorld: Bringing up level for play took: 0.002647
+[2023.11.16-23.20.35:444][480]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.11.16-23.20.35:464][480]PIE: Server logged in
+[2023.11.16-23.20.35:465][480]PIE: Play in editor total start time 0.185 seconds.
+[2023.11.16-23.20.35:509][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:510][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:514][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:514][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:515][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:515][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:516][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:517][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:518][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:518][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:519][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:520][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:520][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:521][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:522][480]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:548][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:548][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:549][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:549][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:549][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:550][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:550][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:550][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:551][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:551][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:551][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:552][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:552][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:553][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.35:553][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.36:610][483]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.16-23.20.46:145][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-23.20.46:145][995]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.16-23.20.46:145][995]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-23.20.46:146][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-23.20.46:146][995]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.16-23.20.46:154][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-23.20.46:156][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-23.20.46:165][995]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-23.20.46:166][995]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.16-23.20.46:166][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.16-23.20.46:168][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.16-23.20.46:178][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-23.20.46:181][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.16-23.20.46:288][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.20.46:309][996]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.11.16-23.20.46:332][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-23.21.08:800][965]LogViewport: Scene viewport resized to 1129x651, mode Windowed.
+[2023.11.16-23.21.08:847][966]LogViewport: Scene viewport resized to 1129x542, mode Windowed.
+[2023.11.16-23.21.08:903][968]LogViewport: Scene viewport resized to 1129x409, mode Windowed.
+[2023.11.16-23.21.08:958][970]LogViewport: Scene viewport resized to 1129x317, mode Windowed.
+[2023.11.16-23.21.08:995][971]LogViewport: Scene viewport resized to 1129x282, mode Windowed.
+[2023.11.16-23.21.09:050][973]LogViewport: Scene viewport resized to 1129x250, mode Windowed.
+[2023.11.16-23.21.09:074][974]LogViewport: Scene viewport resized to 1129x239, mode Windowed.
+[2023.11.16-23.21.09:131][976]LogViewport: Scene viewport resized to 1129x231, mode Windowed.
+[2023.11.16-23.21.09:255][983]LogViewport: Scene viewport resized to 1129x226, mode Windowed.
+[2023.11.16-23.21.09:297][985]LogViewport: Scene viewport resized to 1129x224, mode Windowed.
+[2023.11.16-23.21.09:336][987]LogViewport: Scene viewport resized to 1129x221, mode Windowed.
+[2023.11.16-23.21.09:361][988]LogViewport: Scene viewport resized to 1129x217, mode Windowed.
+[2023.11.16-23.21.09:408][990]LogViewport: Scene viewport resized to 1129x206, mode Windowed.
+[2023.11.16-23.21.09:451][992]LogViewport: Scene viewport resized to 1129x189, mode Windowed.
+[2023.11.16-23.21.09:501][994]LogViewport: Scene viewport resized to 1129x162, mode Windowed.
+[2023.11.16-23.21.09:540][996]LogViewport: Scene viewport resized to 1129x152, mode Windowed.
+[2023.11.16-23.21.09:580][998]LogViewport: Scene viewport resized to 1129x145, mode Windowed.
+[2023.11.16-23.21.09:624][  0]LogViewport: Scene viewport resized to 1129x139, mode Windowed.
+[2023.11.16-23.21.09:662][  2]LogViewport: Scene viewport resized to 1129x138, mode Windowed.
+[2023.11.16-23.21.38:561][595]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.16-23.21.38:572][595]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-23.21.38:573][595]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-23.21.39:671][595]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.11.16-23.22.21:353][155]LogViewport: Scene viewport resized to 975x841, mode Windowed.
+[2023.11.16-23.26.54:556][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.11.16-23.26.54:568][ 11]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.009046 seconds
+[2023.11.16-23.26.54:569][ 11]LogSerialization: UsePackageTrailer: 'true'
+[2023.11.16-23.26.54:584][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI_Auto1
+[2023.11.16-23.26.54:584][ 11]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/6EW8RE9VA2GGHRWK614FCI_Auto1A3712A5146F87477479F7A99D5530A0C.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI_Auto1.uasset'
+[2023.11.16-23.26.54:595][ 11]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.066
+[2023.11.16-23.26.54:595][ 11]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.066
+[2023.11.16-23.34.46:816][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-23.34.46:936][977]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.16-23.34.46:940][977]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacterF60A856B4E5D895C8CFBF6B8EC790BCE.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.16-23.34.46:959][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms
+[2023.11.16-23.34.46:969][977]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.16-23.34.46:969][977]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter

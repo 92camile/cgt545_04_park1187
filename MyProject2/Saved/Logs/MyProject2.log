@@ -1340,3 +1340,34 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.17-23.01.11:712][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 752 ms)
 [2023.11.17-23.01.11:720][232]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter_C_UAID_105107B09B7602BD01_2110643095
 [2023.11.17-23.01.11:720][232]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_UAID_105107B09B7602BD01_2110643095
+[2023.11.17-23.01.44:864][689]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.17-23.01.44:864][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-23.01.44:865][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-23.01.58:346][366]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-23.01.58:505][366]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.17-23.01.58:512][366]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacterB2BF89554CA7936BCD46008CA92F1000.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.17-23.01.58:526][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 932 ms)
+[2023.11.17-23.01.58:533][366]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.17-23.01.58:533][366]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.17-23.03.13:169][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.11.17-23.03.13:184][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN_Auto1
+[2023.11.17-23.03.13:184][279]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/MTJZMCRG5TO6OGIS94WVSN_Auto14F9BFE3348E0E1E378B96297C4833942.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN_Auto1.uasset'
+[2023.11.17-23.03.13:204][279]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.080
+[2023.11.17-23.03.13:204][279]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2023.11.17-23.03.13:205][279]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.11.17-23.03.13:302][279]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.11.17-23.03.13:302][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.11.17-23.03.13:344][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2023.11.17-23.03.13:344][279]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacter_Auto197419A984682A13F8498B0982A06814F.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2023.11.17-23.03.13:353][279]LogFileHelpers: Auto-saving content packages took 0.149
+[2023.11.17-23.07.29:999][114]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.17-23.07.30:130][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.17-23.07.30:766][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-23.07.30:979][133]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.17-23.07.30:985][133]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacter51DB74544B1C91FE70FDF3B21E148CEA.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.17-23.07.31:003][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 236 ms (total: 1.16 sec)
+[2023.11.17-23.07.31:012][133]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.17-23.07.31:012][133]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.17-23.07.31:873][178]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.11.17-23.07.31:897][178]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-23.07.31:898][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated

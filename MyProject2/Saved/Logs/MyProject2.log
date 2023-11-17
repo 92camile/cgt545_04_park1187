@@ -1564,3 +1564,43 @@ Script Stack (0 frames) :
 [2023.11.17-00.04.33:656][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 816 ms)
 [2023.11.17-00.04.33:664][437]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter_C_UAID_105107B09B7602BD01_2110643095
 [2023.11.17-00.04.33:664][437]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_UAID_105107B09B7602BD01_2110643095
+[2023.11.17-00.07.06:818][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.17-00.07.06:823][945]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2023.11.17-00.07.06:824][945]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorBlueprintResources/StandardMacros] ([2] browsable assets)...
+[2023.11.17-00.07.06:824][945]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorBlueprintResources/StandardMacros]
+[2023.11.17-00.07.06:855][945]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EditorBlueprintResources/StandardMacros_Auto1
+[2023.11.17-00.07.06:855][945]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/StandardMacros_Auto1E9A73D2A478743BBA853A49D7B2D08E6.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/Autosaves/Engine/EditorBlueprintResources/StandardMacros_Auto1.uasset'
+[2023.11.17-00.07.06:860][945]LogFileHelpers: Auto-saving content packages took 0.037
+[2023.11.17-00.09.21:779][853]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.17-00.09.21:780][853]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-00.09.21:780][853]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-00.10.31:507][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-00.10.31:640][509]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.17-00.10.31:647][509]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacterD0A8AA0F41584EBF5A65A492D6D285B8.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.17-00.10.31:674][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 983 ms)
+[2023.11.17-00.10.31:683][509]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.17-00.10.31:683][509]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.17-00.10.31:890][517]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.17-00.10.31:980][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.17-00.10.32:564][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-00.10.32:707][545]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.17-00.10.32:712][545]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacterAF672E0E409280A9523A4A8F19BF8761.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.17-00.10.32:739][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 1.15 sec)
+[2023.11.17-00.10.32:748][545]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.17-00.10.32:748][545]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.17-00.11.08:850][121]LogEditorTransaction: Undo Move Node
+[2023.11.17-00.11.08:997][121]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.17-00.11.11:689][259]LogEditorTransaction: Undo Rename Node
+[2023.11.17-00.11.11:766][259]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.17-00.11.15:664][466]LogEditorTransaction: Redo Rename Node
+[2023.11.17-00.11.15:800][466]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.17-00.11.17:894][545]LogEditorTransaction: Redo Move Node
+[2023.11.17-00.11.17:975][545]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.17-00.11.23:880][814]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.17-00.11.23:986][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.17-00.11.24:353][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-00.11.24:467][827]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.17-00.11.24:471][827]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacterBC71685546AB72500DC1DF882DDCF415.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.17-00.11.24:498][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 1.30 sec)
+[2023.11.17-00.11.24:504][827]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.17-00.11.24:504][827]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter

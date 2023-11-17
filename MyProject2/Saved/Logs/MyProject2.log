@@ -1604,3 +1604,27 @@ Script Stack (0 frames) :
 [2023.11.17-00.11.24:498][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 1.30 sec)
 [2023.11.17-00.11.24:504][827]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
 [2023.11.17-00.11.24:504][827]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.17-00.11.37:713][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-00.11.37:846][ 22]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.17-00.11.37:850][ 22]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacter2E8EE1684E65DAC51A9E59999F133DA9.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.17-00.11.37:870][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 1.46 sec)
+[2023.11.17-00.11.37:877][ 22]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.17-00.11.37:877][ 22]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.17-00.11.39:272][ 93]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.11.17-00.11.39:297][ 93]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-00.11.39:297][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-00.11.54:279][282]LogViewport: Scene viewport resized to 626x490, mode Windowed.
+[2023.11.17-00.11.54:985][310]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.17-00.11.54:986][310]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-00.11.54:986][310]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-00.12.00:105][483]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.11.17-00.12.00:127][483]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.17-00.12.01:359][528]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.17-00.12.01:512][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.11.17-00.12.01:728][530]LogViewport: Scene viewport resized to 626x490, mode Windowed.
+[2023.11.17-00.12.01:748][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-00.12.01:937][531]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.17-00.12.01:942][531]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacterEA297ADE4A023FEA92601EBDAE295F00.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.17-00.12.01:968][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 1.68 sec)
+[2023.11.17-00.12.01:973][531]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.17-00.12.01:973][531]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter

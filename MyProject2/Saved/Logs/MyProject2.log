@@ -5173,3 +5173,442 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.20-02.35.18:751][577]AssetCheck: New page: Asset Save: multiple assets
 [2023.11.20-02.35.18:751][577]LogContentValidation: Display: Validating /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Door_Overlap_C_UAID_105107B09B76FDBD01_1645996271
 [2023.11.20-02.35.18:751][577]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_UAID_105107B09B7602BD01_2110643095
+[2023.11.20-02.44.08:576][824]LogDerivedDataCache: C:/Users/park1187/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.086 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1250 files in 1883 folders with total size 26 MiB.
+[2023.11.20-02.46.24:562][779]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.20-02.46.24:575][780]LogAutomationController: Ignoring very large delta of 5.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.20-02.46.27:525][889]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.20-02.46.27:533][889]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.20-02.46.27:540][889]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.20-02.46.27:549][890]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.20-02.46.35:371][297]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP+Pressureplate
+[2023.11.20-02.46.35:379][297]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.20-02.46.36:893][372]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate
+[2023.11.20-02.46.36:893][372]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.46.36:893][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-02.46.37:027][372]LogViewport: Scene viewport resized to 975x620, mode Windowed.
+[2023.11.20-02.46.37:068][373]LogViewport: Scene viewport resized to 975x617, mode Windowed.
+[2023.11.20-02.47.15:976][296]LogStaticMesh: Display: Building static mesh 1M_Cube...
+[2023.11.20-02.47.15:991][296]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Geometry/Meshes/1M_Cube.1M_Cube
+[2023.11.20-02.47.16:000][296]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: ================================================
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: RAM used: 36.18 KiB of 1.60 GiB budget. Usage: 0.00%
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Jobs assigned 4, completed 2 (50.00%)
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Job execution time: average 1.17 s, max 1.17 s
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 1.19
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.19 s
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Average processing rate: 1.69 jobs/sec
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Total thread time: 0.728 s
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Total thread preprocess time: 0.032 s
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Percentage time preprocessing: 4.33%
+[2023.11.20-02.47.17:228][431]LogShaderCompilers: Display: Effective parallelization: 0.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.20-02.47.17:229][431]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.11.20-02.47.17:229][431]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2023.11.20-02.47.17:229][431]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.11.20-02.47.17:229][431]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.11.20-02.47.17:229][431]LogShaderCompilers: Display:                                                 FLumenCardVS - 57.05% of total time (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2023.11.20-02.47.17:229][431]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 42.95% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.11.20-02.47.17:229][431]LogShaderCompilers: Display: ================================================
+[2023.11.20-02.49.19:550][ 50]BlueprintLog: New page: Compile BP+Pressureplate
+[2023.11.20-02.49.19:592][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.11.20-02.49.20:502][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.49.20:570][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/BP+Pressureplate" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset" SILENT=true
+[2023.11.20-02.49.20:576][143]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/BP+Pressureplate
+[2023.11.20-02.49.20:576][143]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP+Pressureplate8E5911704CE80BCEA61EC8B364951D88.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset'
+[2023.11.20-02.49.20:592][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 6.72 sec)
+[2023.11.20-02.49.20:597][143]AssetCheck: New page: Asset Save: BP+Pressureplate
+[2023.11.20-02.49.20:597][143]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate
+[2023.11.20-02.51.46:907][420]BlueprintLog: New page: Compile BP+Pressureplate
+[2023.11.20-02.51.46:943][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.11.20-02.51.47:521][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.51.47:622][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/BP+Pressureplate" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset" SILENT=true
+[2023.11.20-02.51.47:629][481]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/BP+Pressureplate
+[2023.11.20-02.51.47:631][481]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP+PressureplateC60D2AF746184143E41D01AFE76F3C1D.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset'
+[2023.11.20-02.51.47:638][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 6.84 sec)
+[2023.11.20-02.51.47:643][481]AssetCheck: New page: Asset Save: BP+Pressureplate
+[2023.11.20-02.51.47:643][481]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate
+[2023.11.20-02.52.44:550][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.52.44:641][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/BP+Pressureplate" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset" SILENT=true
+[2023.11.20-02.52.44:647][385]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/BP+Pressureplate
+[2023.11.20-02.52.44:651][385]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP+Pressureplate9A59EC804EE657407DE52192E87BEF80.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset'
+[2023.11.20-02.52.44:659][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 6.95 sec)
+[2023.11.20-02.52.44:664][385]AssetCheck: New page: Asset Save: BP+Pressureplate
+[2023.11.20-02.52.44:665][385]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate
+[2023.11.20-02.54.30:035][934]BlueprintLog: New page: Compile BP+Pressureplate
+[2023.11.20-02.54.30:080][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.20-02.54.30:658][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.54.30:748][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/BP+Pressureplate" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset" SILENT=true
+[2023.11.20-02.54.30:757][985]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/BP+Pressureplate
+[2023.11.20-02.54.30:761][985]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP+Pressureplate9BC5C59F4E7C6CA4BECBA78FEBF5F455.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset'
+[2023.11.20-02.54.30:769][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 7.06 sec)
+[2023.11.20-02.54.30:775][985]AssetCheck: New page: Asset Save: BP+Pressureplate
+[2023.11.20-02.54.30:775][985]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate
+[2023.11.20-02.54.32:593][103]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-02.54.32:601][103]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.20-02.54.32:602][103]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.20-02.54.32:602][103]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.20-02.54.32:602][103]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 1 ms)
+[2023.11.20-02.54.32:603][103]LogWorldPartition: Display: GenerateStreaming took 169 us (total: 7 ms)
+[2023.11.20-02.54.32:603][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-02.54.32:603][103]PIE: New page: PIE session: FirstPersonMap (Nov 19, 2023, 4:54:32 PM)
+[2023.11.20-02.54.32:603][103]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.54.32:608][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005081s)
+[2023.11.20-02.54.32:608][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005107s)
+[2023.11.20-02.54.32:608][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.54.32:608][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-02.54.32:609][103]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-02.54.32:609][103]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-02.54.32:609][103]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-02.54.32:609][103]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-02.54.32:610][103]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-02.54.32:610][103]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 981 ms)
+[2023.11.20-02.54.32:611][103]LogPlayLevel: PIE: World Init took: (0.002442s)
+[2023.11.20-02.54.32:630][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.20-02.54.32:632][103]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.11.20-02.54.32:632][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-02.54.32:632][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-02.54.32:632][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-02.54.32:632][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-02.54.32:632][103]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-02.54.32:632][103]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-02.54.32:632][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-02.54.32:632][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-02.54.32:633][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-02.54.32:633][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-02.54.32:633][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-02.54.32:635][103]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-02.54.32:744][103]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.20-02.54.32:744][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-02.54.32:744][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-02.54.32:744][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-02.54.32:745][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.11.20-02.54.32:746][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.11.20-02.54.32:747][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.11.20-02.54.32:747][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.11.20-02.54.32:747][103]LogInit: FAudioDevice initialized with ID 21.
+[2023.11.20-02.54.32:747][103]LogAudio: Display: Audio Device (ID: 21) registered with world 'FirstPersonMap'.
+[2023.11.20-02.54.32:747][103]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.11.20-02.54.32:749][103]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-02.54.32:752][103]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.19-21.54.32
+[2023.11.20-02.54.32:753][103]LogWorld: Bringing up level for play took: 0.002936
+[2023.11.20-02.54.32:754][103]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.11.20-02.54.32:757][103]PIE: Server logged in
+[2023.11.20-02.54.32:758][103]PIE: Play in editor total start time 0.156 seconds.
+[2023.11.20-02.54.32:775][103]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.54.32:781][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.54.34:148][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.54.34:149][137]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.54.34:149][137]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-02.54.34:149][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.54.34:149][137]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-02.54.34:157][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-02.54.34:161][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.54.34:182][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-02.54.34:182][137]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.11.20-02.54.34:182][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.20-02.54.34:185][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.20-02.54.34:195][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.54.34:198][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.20-02.54.34:213][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.54.34:221][138]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.11.20-02.54.34:227][138]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.54.39:861][416]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/bp_door_parents.bp_door_parents_C
+[2023.11.20-02.54.39:861][416]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/bp_door_parents.bp_door_parents_C
+[2023.11.20-02.54.39:863][416]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents as actor: bp_door_parents_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bp_door_parents_C_0
+[2023.11.20-02.54.39:864][416]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents as actor: bp_door_parents_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bp_door_parents_C_0
+[2023.11.20-02.54.41:478][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/bp_door_parents.bp_door_parents_C
+[2023.11.20-02.54.41:478][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/bp_door_parents.bp_door_parents_C
+[2023.11.20-02.54.41:480][540]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents as actor: bp_door_parents_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bp_door_parents_C_UAID_105107B09B76FEBD01_1756206448
+[2023.11.20-02.54.41:482][540]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents as actor: bp_door_parents_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bp_door_parents_C_UAID_105107B09B76FEBD01_1756206448
+[2023.11.20-02.54.46:153][714]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C
+[2023.11.20-02.54.46:153][714]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C
+[2023.11.20-02.54.46:154][714]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate as actor: BP+Pressureplate_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_0
+[2023.11.20-02.54.46:155][714]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate as actor: BP+Pressureplate_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_0
+[2023.11.20-02.54.46:316][723]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C
+[2023.11.20-02.54.46:316][723]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C
+[2023.11.20-02.54.46:317][723]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate as actor: BP+Pressureplate_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_1
+[2023.11.20-02.54.46:318][723]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate as actor: BP+Pressureplate_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_1
+[2023.11.20-02.54.50:146][  9]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C
+[2023.11.20-02.54.50:146][  9]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C
+[2023.11.20-02.54.50:148][  9]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate as actor: BP+Pressureplate_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.54.50:150][  9]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate as actor: BP+Pressureplate_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.55.11:560][246]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.11.20-02.55.11:560][246]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.11.20-02.55.15:727][452]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.11.20-02.55.15:728][452]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.11.20-02.56.31:332][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.56.31:440][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4
+[2023.11.20-02.56.31:446][589]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/Z38FT77DKZLKDXTQ7PZNM496746A3F4FB3E5F713214B90A3DE7C9B.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset'
+[2023.11.20-02.56.31:460][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME
+[2023.11.20-02.56.31:465][589]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/GZM47KS5FPIQH5TLSYC1ME162237034661C9F72F801D9C7062ECDE.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset'
+[2023.11.20-02.56.31:480][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778
+[2023.11.20-02.56.31:485][589]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/ZNIOCRD90Z70MMV9NMW778DC1349B94EF3070419505C9903E591CB.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset'
+[2023.11.20-02.56.31:499][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/5Z/FRB1QDI2SAMK86U3GKIWMH
+[2023.11.20-02.56.31:499][589]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/FRB1QDI2SAMK86U3GKIWMHAD4C862F432430427F8FA5B824E0520C.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/5Z/FRB1QDI2SAMK86U3GKIWMH.uasset'
+[2023.11.20-02.56.31:514][589]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/NZ/KHKIY1LJI8RNI7KW319409
+[2023.11.20-02.56.31:514][589]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/KHKIY1LJI8RNI7KW3194092B3DF4474A21E9F2FC7CD4BEBC33849E.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/NZ/KHKIY1LJI8RNI7KW319409.uasset'
+[2023.11.20-02.56.31:538][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 7.27 sec)
+[2023.11.20-02.56.31:546][589]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-02.56.31:546][589]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_1
+[2023.11.20-02.56.31:546][589]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_43
+[2023.11.20-02.56.31:546][589]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_44
+[2023.11.20-02.56.31:546][589]LogContentValidation: Display: Validating /Game/Blueprints/Doors/bp_door_parents.bp_door_parents_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bp_door_parents_C_UAID_105107B09B76FEBD01_1756206448
+[2023.11.20-02.56.31:546][589]LogContentValidation: Display: Validating /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.56.32:342][635]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-02.56.32:359][635]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.20-02.56.32:363][635]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.20-02.56.32:363][635]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.20-02.56.32:363][635]LogWorldPartition: Display: GetPartitionedActors took 19 us (total: 1 ms)
+[2023.11.20-02.56.32:363][635]LogWorldPartition: Display: GenerateStreaming took 386 us (total: 7 ms)
+[2023.11.20-02.56.32:364][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-02.56.32:364][635]PIE: New page: PIE session: FirstPersonMap (Nov 19, 2023, 4:56:32 PM)
+[2023.11.20-02.56.32:364][635]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.56.32:375][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010691s)
+[2023.11.20-02.56.32:375][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.010743s)
+[2023.11.20-02.56.32:375][635]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.56.32:375][635]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-02.56.32:376][635]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-02.56.32:377][635]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-02.56.32:377][635]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-02.56.32:377][635]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-02.56.32:379][635]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-02.56.32:379][635]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 983 ms)
+[2023.11.20-02.56.32:379][635]LogPlayLevel: PIE: World Init took: (0.004379s)
+[2023.11.20-02.56.32:419][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.20-02.56.32:423][635]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.11.20-02.56.32:423][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-02.56.32:423][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-02.56.32:423][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-02.56.32:423][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-02.56.32:423][635]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-02.56.32:423][635]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-02.56.32:423][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-02.56.32:423][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-02.56.32:424][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-02.56.32:424][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-02.56.32:424][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-02.56.32:427][635]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-02.56.32:604][635]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.20-02.56.32:604][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-02.56.32:604][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-02.56.32:604][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-02.56.32:605][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.11.20-02.56.32:605][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.11.20-02.56.32:608][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.11.20-02.56.32:608][635]LogInit: FAudioDevice initialized with ID 22.
+[2023.11.20-02.56.32:608][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.11.20-02.56.32:608][635]LogAudio: Display: Audio Device (ID: 22) registered with world 'FirstPersonMap'.
+[2023.11.20-02.56.32:608][635]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.11.20-02.56.32:612][635]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-02.56.32:617][635]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.19-21.56.32
+[2023.11.20-02.56.32:618][635]LogWorld: Bringing up level for play took: 0.004967
+[2023.11.20-02.56.32:621][635]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.11.20-02.56.32:626][635]PIE: Server logged in
+[2023.11.20-02.56.32:628][635]PIE: Play in editor total start time 0.269 seconds.
+[2023.11.20-02.56.32:639][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.56.32:794][636]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.57.16:830][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.57.16:830][624]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.57.16:830][624]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-02.57.16:830][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.57.16:831][624]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-02.57.16:839][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-02.57.16:845][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.57.16:873][624]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-02.57.16:875][624]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.11.20-02.57.16:875][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.20-02.57.16:877][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.20-02.57.16:887][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.57.16:892][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.20-02.57.16:968][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.57.16:991][625]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.11.20-02.57.17:380][625]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.58.11:309][767]BlueprintLog: New page: Compile BP+Pressureplate
+[2023.11.20-02.58.11:347][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.11.20-02.58.11:795][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.58.11:891][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/BP+Pressureplate" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset" SILENT=true
+[2023.11.20-02.58.11:899][811]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/BP+Pressureplate
+[2023.11.20-02.58.11:902][811]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP+Pressureplate429C2C004D97563C45F5089B73B9E118.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset'
+[2023.11.20-02.58.11:910][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 7.38 sec)
+[2023.11.20-02.58.11:915][811]AssetCheck: New page: Asset Save: BP+Pressureplate
+[2023.11.20-02.58.11:915][811]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate
+[2023.11.20-02.58.13:370][935]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-02.58.13:380][935]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.20-02.58.13:381][935]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.20-02.58.13:381][935]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.20-02.58.13:381][935]LogWorldPartition: Display: GetPartitionedActors took 27 us (total: 1 ms)
+[2023.11.20-02.58.13:381][935]LogWorldPartition: Display: GenerateStreaming took 401 us (total: 8 ms)
+[2023.11.20-02.58.13:382][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-02.58.13:382][935]PIE: New page: PIE session: FirstPersonMap (Nov 19, 2023, 4:58:13 PM)
+[2023.11.20-02.58.13:382][935]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.58.13:389][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006586s)
+[2023.11.20-02.58.13:389][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006619s)
+[2023.11.20-02.58.13:389][935]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.58.13:389][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-02.58.13:389][935]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-02.58.13:389][935]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-02.58.13:389][935]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-02.58.13:389][935]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-02.58.13:391][935]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-02.58.13:391][935]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 984 ms)
+[2023.11.20-02.58.13:391][935]LogPlayLevel: PIE: World Init took: (0.002276s)
+[2023.11.20-02.58.13:411][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.20-02.58.13:413][935]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.11.20-02.58.13:413][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-02.58.13:413][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-02.58.13:413][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-02.58.13:413][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-02.58.13:413][935]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-02.58.13:413][935]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-02.58.13:413][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-02.58.13:413][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-02.58.13:414][935]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-02.58.13:414][935]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-02.58.13:414][935]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-02.58.13:416][935]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-02.58.13:514][935]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.20-02.58.13:514][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-02.58.13:514][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-02.58.13:514][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-02.58.13:516][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.11.20-02.58.13:516][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.11.20-02.58.13:517][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.11.20-02.58.13:517][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.11.20-02.58.13:517][935]LogInit: FAudioDevice initialized with ID 23.
+[2023.11.20-02.58.13:517][935]LogAudio: Display: Audio Device (ID: 23) registered with world 'FirstPersonMap'.
+[2023.11.20-02.58.13:517][935]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.11.20-02.58.13:520][935]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-02.58.13:523][935]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.19-21.58.13
+[2023.11.20-02.58.13:523][935]LogWorld: Bringing up level for play took: 0.002874
+[2023.11.20-02.58.13:525][935]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.11.20-02.58.13:527][935]PIE: Server logged in
+[2023.11.20-02.58.13:528][935]PIE: Play in editor total start time 0.149 seconds.
+[2023.11.20-02.58.13:545][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.58.13:551][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.58.18:658][202]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.18:658][202]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.19:542][249]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.19:542][249]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.24:879][505]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.24:880][505]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.30:737][786]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=94.92 Y=-486.02 Z=0.00 Location: X=1171.84 Y=155.25 Z=184.14 Normal: X=-0.49 Y=-0.54 Z=0.68 PenetrationDepth:8.739 Actor:StaticMeshActor_1 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.11.20-02.58.30:738][786]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.30:738][786]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.31:428][817]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.31:428][817]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.32:368][860]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.32:369][860]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.33:730][924]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.33:730][924]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.39:315][184]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.39:315][184]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.46:533][518]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.46:533][518]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.46:554][519]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.46:554][519]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.46:577][520]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.46:577][520]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.47:756][575]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.47:756][575]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.52:176][782]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C:ExecuteUbergraph_BP+Pressureplate'!
+[2023.11.20-02.58.52:176][782]LogScript: Warning: Script Msg called by: BP+Pressureplate_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
+[2023.11.20-02.58.53:318][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.58.53:318][833]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.58.53:318][833]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-02.58.53:319][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.58.53:319][833]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-02.58.53:342][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-02.58.53:346][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.58.53:365][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-02.58.53:366][833]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.11.20-02.58.53:366][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.11.20-02.58.53:368][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.11.20-02.58.53:376][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.58.53:378][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.20-02.58.53:438][833]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.58.53:453][834]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.11.20-02.58.53:846][834]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.59.01:513][649]BlueprintLog: New page: Compile BP+Pressureplate
+[2023.11.20-02.59.01:551][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.20-02.59.02:000][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.59.02:108][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/BP+Pressureplate" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset" SILENT=true
+[2023.11.20-02.59.02:116][694]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/BP+Pressureplate
+[2023.11.20-02.59.02:119][694]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP+PressureplateCEF9D6844CA61980F79A558C1A43C2B9.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset'
+[2023.11.20-02.59.02:128][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 7.51 sec)
+[2023.11.20-02.59.02:133][694]AssetCheck: New page: Asset Save: BP+Pressureplate
+[2023.11.20-02.59.02:133][694]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate
+[2023.11.20-02.59.04:554][828]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-02.59.04:563][828]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.20-02.59.04:565][828]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.20-02.59.04:565][828]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.20-02.59.04:565][828]LogWorldPartition: Display: GetPartitionedActors took 9 us (total: 1 ms)
+[2023.11.20-02.59.04:566][828]LogWorldPartition: Display: GenerateStreaming took 255 us (total: 8 ms)
+[2023.11.20-02.59.04:566][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-02.59.04:566][828]PIE: New page: PIE session: FirstPersonMap (Nov 19, 2023, 4:59:04 PM)
+[2023.11.20-02.59.04:566][828]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.59.04:571][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005292s)
+[2023.11.20-02.59.04:572][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005321s)
+[2023.11.20-02.59.04:572][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.59.04:572][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-02.59.04:572][828]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-02.59.04:572][828]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-02.59.04:572][828]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-02.59.04:572][828]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-02.59.04:574][828]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-02.59.04:574][828]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 986 ms)
+[2023.11.20-02.59.04:574][828]LogPlayLevel: PIE: World Init took: (0.002095s)
+[2023.11.20-02.59.04:592][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.11.20-02.59.04:593][828]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.11.20-02.59.04:593][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-02.59.04:594][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-02.59.04:594][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-02.59.04:594][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-02.59.04:594][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-02.59.04:594][828]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-02.59.04:594][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-02.59.04:594][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-02.59.04:594][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-02.59.04:594][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-02.59.04:594][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-02.59.04:596][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-02.59.04:692][828]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.20-02.59.04:692][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-02.59.04:692][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-02.59.04:692][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-02.59.04:692][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.11.20-02.59.04:692][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.11.20-02.59.04:694][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.11.20-02.59.04:694][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.11.20-02.59.04:694][828]LogInit: FAudioDevice initialized with ID 24.
+[2023.11.20-02.59.04:694][828]LogAudio: Display: Audio Device (ID: 24) registered with world 'FirstPersonMap'.
+[2023.11.20-02.59.04:694][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.11.20-02.59.04:697][828]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-02.59.04:700][828]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.19-21.59.04
+[2023.11.20-02.59.04:701][828]LogWorld: Bringing up level for play took: 0.002912
+[2023.11.20-02.59.04:702][828]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.11.20-02.59.04:705][828]PIE: Server logged in
+[2023.11.20-02.59.04:706][828]PIE: Play in editor total start time 0.142 seconds.
+[2023.11.20-02.59.04:723][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.59.04:729][829]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.59.16:239][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.59.16:239][340]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.59.16:239][340]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-02.59.16:240][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.59.16:240][340]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-02.59.16:249][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-02.59.16:256][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.59.16:277][340]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-02.59.16:277][340]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.11.20-02.59.16:277][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.20-02.59.16:280][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.20-02.59.16:288][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.59.16:291][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.20-02.59.16:357][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.59.16:375][341]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.11.20-02.59.16:714][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.

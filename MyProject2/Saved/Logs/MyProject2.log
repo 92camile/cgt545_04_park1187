@@ -4494,3 +4494,682 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.20-01.18.35:873][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.11.20-01.18.35:876][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
 [2023.11.20-01.18.35:933][  4]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.11.20-01.19.10:290][464]LogViewport: Scene viewport resized to 1134x839, mode Windowed.
+[2023.11.20-01.19.10:320][464]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-01.19.10:376][465]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-01.19.29:183][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-01.20.28:055][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-01.20.28:148][452]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN
+[2023.11.20-01.20.28:153][452]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/MTJZMCRG5TO6OGIS94WVSNACFE3AE343EAFAD036CC74BE6A891B93.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN.uasset'
+[2023.11.20-01.20.28:160][452]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+[2023.11.20-01.20.28:165][452]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/R1GV431P5FDO08OFULRA010A1F57BE46F49B8EA11B628FEC455E6D.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset'
+[2023.11.20-01.20.28:182][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 4.10 sec)
+[2023.11.20-01.20.28:191][452]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-01.20.28:191][452]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_0
+[2023.11.20-01.20.28:191][452]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_UAID_105107B09B7602BD01_2110643095
+[2023.11.20-01.20.48:272][135]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-01.20.48:365][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.11.20-01.22.08:134][763]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-01.22.08:258][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.20-01.22.08:676][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-01.22.08:833][779]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.20-01.22.08:839][779]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacter88FC28AE4781426C71EB72B9A54492C4.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.20-01.22.08:848][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 4.28 sec)
+[2023.11.20-01.22.08:854][779]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.20-01.22.08:854][779]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.20-01.23.47:370][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.20-01.23.47:379][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN_Auto7
+[2023.11.20-01.23.47:380][552]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/MTJZMCRG5TO6OGIS94WVSN_Auto7B27969A249D97C8FD5CB5E85D080812F.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN_Auto7.uasset'
+[2023.11.20-01.23.47:388][552]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.044
+[2023.11.20-01.23.47:388][552]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2023.11.20-01.23.47:389][552]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.11.20-01.23.47:456][552]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.11.20-01.23.47:456][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.11.20-01.23.47:481][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7
+[2023.11.20-01.23.47:481][552]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacter_Auto716C85B4D40EA33DEC01508AC0A2C3D41.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7.uasset'
+[2023.11.20-01.23.47:487][552]LogFileHelpers: Auto-saving content packages took 0.099
+[2023.11.20-01.44.08:583][216]LogDerivedDataCache: C:/Users/park1187/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.094 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1064 files in 1666 folders with total size 25 MiB.
+[2023.11.20-02.02.26:688][422]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-02.02.26:771][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.20-02.02.27:334][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.02.27:475][445]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.20-02.02.27:479][445]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacterBB2A51264E2FB74215A50898D4961D89.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.20-02.02.27:490][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 4.43 sec)
+[2023.11.20-02.02.27:495][445]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.20-02.02.27:495][445]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.20-02.02.59:669][773]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-02.02.59:757][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.11.20-02.03.00:279][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.03.00:403][796]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.20-02.03.00:407][796]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacter1F93FD7440BC677D76EC4AB047D65BC4.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.20-02.03.00:415][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 4.57 sec)
+[2023.11.20-02.03.00:420][796]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.20-02.03.00:420][796]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.20-02.03.02:349][904]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-02.03.02:359][904]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.20-02.03.02:361][904]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.20-02.03.02:361][904]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.20-02.03.02:361][904]LogWorldPartition: Display: GetPartitionedActors took 9 us (total: 1 ms)
+[2023.11.20-02.03.02:361][904]LogWorldPartition: Display: GenerateStreaming took 168 us (total: 6 ms)
+[2023.11.20-02.03.02:361][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-02.03.02:361][904]PIE: New page: PIE session: FirstPersonMap (Nov 19, 2023, 4:03:02 PM)
+[2023.11.20-02.03.02:361][904]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.03.02:366][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005063s)
+[2023.11.20-02.03.02:366][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005095s)
+[2023.11.20-02.03.02:366][904]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.03.02:366][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-02.03.02:367][904]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-02.03.02:367][904]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-02.03.02:367][904]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-02.03.02:367][904]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-02.03.02:368][904]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-02.03.02:368][904]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 975 ms)
+[2023.11.20-02.03.02:369][904]LogPlayLevel: PIE: World Init took: (0.002336s)
+[2023.11.20-02.03.02:391][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.20-02.03.02:393][904]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.11.20-02.03.02:393][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-02.03.02:393][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-02.03.02:393][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-02.03.02:393][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-02.03.02:393][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-02.03.02:393][904]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-02.03.02:393][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-02.03.02:393][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-02.03.02:394][904]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-02.03.02:394][904]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-02.03.02:394][904]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-02.03.02:396][904]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-02.03.02:499][904]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.20-02.03.02:499][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-02.03.02:499][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-02.03.02:499][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-02.03.02:500][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.11.20-02.03.02:500][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.11.20-02.03.02:502][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.11.20-02.03.02:502][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.11.20-02.03.02:502][904]LogInit: FAudioDevice initialized with ID 18.
+[2023.11.20-02.03.02:502][904]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonMap'.
+[2023.11.20-02.03.02:502][904]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.11.20-02.03.02:504][904]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-02.03.02:507][904]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2023.11.19-21.03.02
+[2023.11.20-02.03.02:507][904]LogWorld: Bringing up level for play took: 0.002722
+[2023.11.20-02.03.02:509][904]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.11.20-02.03.02:512][904]PIE: Server logged in
+[2023.11.20-02.03.02:513][904]PIE: Play in editor total start time 0.153 seconds.
+[2023.11.20-02.03.02:528][904]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.03.02:533][905]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.03.08:881][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.03.08:881][256]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.03.08:881][256]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-02.03.08:882][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.03.08:882][256]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-02.03.08:929][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-02.03.08:932][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.03.08:954][256]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-02.03.08:955][256]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.11.20-02.03.08:955][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.20-02.03.08:956][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.20-02.03.08:964][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.03.08:967][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.20-02.03.09:070][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.03.09:105][257]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.11.20-02.03.09:116][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.03.11:214][367]Cmd: SELECT NONE
+[2023.11.20-02.03.27:857][ 72]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-02.03.27:946][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.11.20-02.03.28:354][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.03.28:516][ 88]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.20-02.03.28:520][ 88]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacter3A8E13BA45EA2BA59CA73EB54A461A7D.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.20-02.03.28:530][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 4.75 sec)
+[2023.11.20-02.03.28:536][ 88]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.20-02.03.28:536][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.20-02.03.31:328][248]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-02.03.31:337][248]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.20-02.03.31:339][248]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.20-02.03.31:339][248]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.20-02.03.31:339][248]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 1 ms)
+[2023.11.20-02.03.31:339][248]LogWorldPartition: Display: GenerateStreaming took 171 us (total: 7 ms)
+[2023.11.20-02.03.31:339][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-02.03.31:339][248]PIE: New page: PIE session: FirstPersonMap (Nov 19, 2023, 4:03:31 PM)
+[2023.11.20-02.03.31:339][248]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.03.31:344][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005387s)
+[2023.11.20-02.03.31:344][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005415s)
+[2023.11.20-02.03.31:344][248]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.03.31:344][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-02.03.31:345][248]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-02.03.31:345][248]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-02.03.31:345][248]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-02.03.31:345][248]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-02.03.31:346][248]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-02.03.31:346][248]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 977 ms)
+[2023.11.20-02.03.31:346][248]LogPlayLevel: PIE: World Init took: (0.002030s)
+[2023.11.20-02.03.31:370][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.20-02.03.31:372][248]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.11.20-02.03.31:372][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-02.03.31:372][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-02.03.31:372][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-02.03.31:372][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-02.03.31:372][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-02.03.31:372][248]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-02.03.31:372][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-02.03.31:372][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-02.03.31:372][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-02.03.31:372][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-02.03.31:372][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-02.03.31:374][248]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-02.03.31:475][248]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.20-02.03.31:475][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-02.03.31:475][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-02.03.31:475][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-02.03.31:476][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.11.20-02.03.31:476][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.11.20-02.03.31:478][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.11.20-02.03.31:478][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.11.20-02.03.31:478][248]LogInit: FAudioDevice initialized with ID 19.
+[2023.11.20-02.03.31:478][248]LogAudio: Display: Audio Device (ID: 19) registered with world 'FirstPersonMap'.
+[2023.11.20-02.03.31:478][248]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.11.20-02.03.31:481][248]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-02.03.31:483][248]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2023.11.19-21.03.31
+[2023.11.20-02.03.31:483][248]LogWorld: Bringing up level for play took: 0.002673
+[2023.11.20-02.03.31:485][248]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.11.20-02.03.31:488][248]PIE: Server logged in
+[2023.11.20-02.03.31:489][248]PIE: Play in editor total start time 0.153 seconds.
+[2023.11.20-02.03.31:504][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.03.31:529][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.03.33:407][336]Cmd: restartlevel
+[2023.11.20-02.03.33:414][337]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap?restart
+[2023.11.20-02.03.33:414][337]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.11.20-02.03.33:414][337]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.03.33:414][337]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-02.03.33:415][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.03.33:415][337]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-02.03.33:462][337]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-02.03.33:466][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.11.20-02.03.33:468][337]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.03.33:473][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005054s)
+[2023.11.20-02.03.33:473][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005093s)
+[2023.11.20-02.03.33:473][337]LogAudio: Display: Audio Device (ID: 19) registered with world 'FirstPersonMap'.
+[2023.11.20-02.03.33:473][337]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.03.33:473][337]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-02.03.33:474][337]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-02.03.33:474][337]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-02.03.33:474][337]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-02.03.33:474][337]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-02.03.33:476][337]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-02.03.33:476][337]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 978 ms)
+[2023.11.20-02.03.33:476][337]LogPlayLevel: PIE: World Init took: (0.002765s)
+[2023.11.20-02.03.33:476][337]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-02.03.33:478][337]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2023.11.19-21.03.33
+[2023.11.20-02.03.33:479][337]LogWorld: Bringing up level for play took: 0.002767
+[2023.11.20-02.03.33:481][337]LogLoad: Took 0.067004 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2023.11.20-02.03.33:486][337]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.03.33:491][338]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.03.47:883][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.03.47:883][181]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.03.47:883][181]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-02.03.47:884][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.03.47:884][181]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-02.03.47:933][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-02.03.47:937][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.03.47:957][181]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-02.03.47:957][181]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.11.20-02.03.47:958][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.20-02.03.47:959][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.20-02.03.47:971][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.03.47:974][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.20-02.03.48:008][181]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.03.48:010][182]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.11.20-02.03.48:015][182]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.04.30:073][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.11.20-02.04.30:080][421]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN_Auto8
+[2023.11.20-02.04.30:081][421]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/MTJZMCRG5TO6OGIS94WVSN_Auto8FD80B15444E3740F4D426AA010488491.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN_Auto8.uasset'
+[2023.11.20-02.04.30:088][421]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.040
+[2023.11.20-02.04.30:088][421]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2023.11.20-02.05.54:178][163]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.20-02.05.54:197][163]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.20-02.05.54:204][164]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.20-02.06.01:060][558]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2023.11.20-02.06.01:061][558]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.20-02.06.06:905][850]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.20-02.06.06:919][850]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.20-02.06.06:943][852]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.20-02.06.08:923][954]LogContentBrowser: Attempting asset rename: NewFolder -> Doors
+[2023.11.20-02.06.08:924][954]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.20-02.06.25:025][151]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.20-02.06.25:033][151]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.20-02.06.25:039][151]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.20-02.06.25:051][152]LogAutomationController: Ignoring very large delta of 8.30 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.20-02.06.25:075][153]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.20-02.06.28:978][382]LogContentBrowser: Attempting asset rename: NewBlueprint -> bp
+[2023.11.20-02.06.28:995][382]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.20-02.06.38:768][783]LogContentBrowser: Attempting asset rename: bp -> bp_door_parents
+[2023.11.20-02.06.38:799][783]LogMetaData: Removing '/Game/Blueprints/Doors/bp_door_parents.bp_door_parents:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Doors/bp.PackageMetaData'
+[2023.11.20-02.06.38:799][783]LogMetaData: Removing '/Game/Blueprints/Doors/bp_door_parents.SKEL_bp_door_parents_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Doors/bp.PackageMetaData'
+[2023.11.20-02.06.38:799][783]LogMetaData: Removing '/Game/Blueprints/Doors/bp_door_parents.SKEL_bp_door_parents_C' ref from Metadata '/Game/Blueprints/Doors/bp.PackageMetaData'
+[2023.11.20-02.06.38:799][783]LogMetaData: Removing '/Game/Blueprints/Doors/bp_door_parents.bp_door_parents_C' ref from Metadata '/Game/Blueprints/Doors/bp.PackageMetaData'
+[2023.11.20-02.06.38:799][783]LogMetaData: Removing '/Game/Blueprints/Doors/bp_door_parents.bp_door_parents:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Doors/bp.PackageMetaData'
+[2023.11.20-02.06.38:799][783]LogMetaData: Removing '/Game/Blueprints/Doors/bp_door_parents.bp_door_parents:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Doors/bp.PackageMetaData'
+[2023.11.20-02.06.38:799][783]LogMetaData: Removing '/Game/Blueprints/Doors/bp_door_parents.bp_door_parents:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Doors/bp.PackageMetaData'
+[2023.11.20-02.06.38:800][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.06.38:865][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bp_door_parents" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset" SILENT=true
+[2023.11.20-02.06.38:871][783]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bp_door_parents
+[2023.11.20-02.06.38:871][783]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bp_door_parentsCD400E9B40C1C31E091652BB754A0B21.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset'
+[2023.11.20-02.06.38:885][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 4.83 sec)
+[2023.11.20-02.06.38:919][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.11.20-02.06.38:941][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.20-02.06.38:962][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.20-02.06.38:967][783]AssetCheck: New page: Asset Save: bp_door_parents
+[2023.11.20-02.06.38:967][783]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-02.06.43:765][874]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-02.06.43:765][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.06.43:765][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-02.06.43:851][874]LogViewport: Scene viewport resized to 975x617, mode Windowed.
+[2023.11.20-02.07.54:451][471]BlueprintLog: New page: Compile bp_door_parents
+[2023.11.20-02.07.54:489][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.20-02.07.54:904][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.07.54:981][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bp_door_parents" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset" SILENT=true
+[2023.11.20-02.07.54:987][492]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bp_door_parents
+[2023.11.20-02.07.54:990][492]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bp_door_parentsC6E2F5124623F58379133FBB71D015FC.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset'
+[2023.11.20-02.07.54:997][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 4.92 sec)
+[2023.11.20-02.07.55:002][492]AssetCheck: New page: Asset Save: bp_door_parents
+[2023.11.20-02.07.55:002][492]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-02.07.56:001][547]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2023.11.20-02.07.58:047][666]LogEditorTransaction: Undo Make New Scene Root
+[2023.11.20-02.08.17:269][148]LogSlate: Took 0.000577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.20-02.10.09:491][749]BlueprintLog: New page: Compile bp_door_parents
+[2023.11.20-02.10.09:533][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.20-02.10.10:231][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.10.10:305][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bp_door_parents" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset" SILENT=true
+[2023.11.20-02.10.10:310][783]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bp_door_parents
+[2023.11.20-02.10.10:313][783]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bp_door_parents7C5CA62040932F753401DEBD081C7DCB.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset'
+[2023.11.20-02.10.10:320][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 5.01 sec)
+[2023.11.20-02.10.10:326][783]AssetCheck: New page: Asset Save: bp_door_parents
+[2023.11.20-02.10.10:326][783]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-02.14.30:361][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.20-02.14.30:370][826]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN_Auto9
+[2023.11.20-02.14.30:370][826]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/MTJZMCRG5TO6OGIS94WVSN_Auto9DADFAA394F1E3D31F356DBA103F825DD.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN_Auto9.uasset'
+[2023.11.20-02.14.30:379][826]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.044
+[2023.11.20-02.14.30:379][826]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2023.11.20-02.21.19:740][ 94]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.11.20-02.22.17:303][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.22.17:378][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bp_door_parents" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset" SILENT=true
+[2023.11.20-02.22.17:384][260]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bp_door_parents
+[2023.11.20-02.22.17:387][260]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bp_door_parentsF0E38BDD4EA8AD618C2498B3863FFAF2.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset'
+[2023.11.20-02.22.17:398][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 5.11 sec)
+[2023.11.20-02.22.17:402][260]AssetCheck: New page: Asset Save: bp_door_parents
+[2023.11.20-02.22.17:402][260]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-02.23.54:998][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.23.55:064][749]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.23.55:161][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bp_door_parents" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset" SILENT=true
+[2023.11.20-02.23.55:167][749]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bp_door_parents
+[2023.11.20-02.23.55:170][749]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bp_door_parents76E5926D4868BFB876916790479DAFD2.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset'
+[2023.11.20-02.23.55:178][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 5.29 sec)
+[2023.11.20-02.23.55:184][749]AssetCheck: New page: Asset Save: bp_door_parents
+[2023.11.20-02.23.55:184][749]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-02.23.55:792][786]BlueprintLog: New page: Compile bp_door_parents
+[2023.11.20-02.23.55:830][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.20-02.23.56:525][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.23.56:610][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bp_door_parents" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset" SILENT=true
+[2023.11.20-02.23.56:614][823]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bp_door_parents
+[2023.11.20-02.23.56:617][823]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bp_door_parentsE0F02A924480977AD6C57EB12FFB0164.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset'
+[2023.11.20-02.23.56:624][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 5.39 sec)
+[2023.11.20-02.23.56:629][823]AssetCheck: New page: Asset Save: bp_door_parents
+[2023.11.20-02.23.56:629][823]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-02.26.15:649][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.26.15:806][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bp_door_parents" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset" SILENT=true
+[2023.11.20-02.26.15:813][781]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bp_door_parents
+[2023.11.20-02.26.15:816][781]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bp_door_parentsE768A44F42BE0DA88C9D76A7AEBED84F.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset'
+[2023.11.20-02.26.15:827][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 5.57 sec)
+[2023.11.20-02.26.15:834][781]AssetCheck: New page: Asset Save: bp_door_parents
+[2023.11.20-02.26.15:834][781]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-02.26.16:860][839]BlueprintLog: New page: Compile bp_door_parents
+[2023.11.20-02.26.16:904][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.20-02.26.17:900][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.26.18:003][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bp_door_parents" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset" SILENT=true
+[2023.11.20-02.26.18:010][896]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bp_door_parents
+[2023.11.20-02.26.18:013][896]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bp_door_parents3016AC5E4B0B8979FC4185BD0A8295B5.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset'
+[2023.11.20-02.26.18:021][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 5.69 sec)
+[2023.11.20-02.26.18:026][896]AssetCheck: New page: Asset Save: bp_door_parents
+[2023.11.20-02.26.18:026][896]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-02.27.18:510][355]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:510][355]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:526][356]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:527][356]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:527][356]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:543][357]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:543][357]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:543][357]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:560][358]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:560][358]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:560][358]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:576][359]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:577][359]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:577][359]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:594][360]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:594][360]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:594][360]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:610][361]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.18:610][361]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:276][401]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:277][401]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:293][402]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:293][402]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:293][402]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:309][403]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:310][403]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:310][403]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:326][404]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:327][404]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:327][404]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:343][405]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:343][405]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:343][405]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:360][406]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:360][406]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:360][406]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:377][407]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:377][407]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:377][407]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:393][408]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:394][408]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:394][408]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:410][409]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:410][409]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:410][409]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:427][410]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.19:427][410]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:101][570]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:102][570]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:118][571]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:118][571]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:118][571]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:135][572]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:135][572]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:652][603]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:652][603]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:668][604]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:668][604]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:668][604]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:685][605]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:685][605]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:685][605]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:702][606]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:702][606]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:702][606]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:717][607]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:718][607]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:718][607]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:734][608]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:734][608]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:734][608]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:751][609]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:751][609]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:751][609]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:768][610]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:768][610]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:768][610]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:784][611]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:785][611]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:785][611]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:801][612]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:802][612]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:802][612]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:818][613]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:818][613]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:818][613]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:834][614]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:835][614]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:835][614]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:851][615]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:851][615]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:851][615]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:868][616]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:868][616]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:868][616]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:884][617]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:885][617]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:885][617]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:901][618]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:901][618]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:901][618]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:918][619]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:918][619]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:918][619]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:935][620]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:935][620]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:935][620]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:951][621]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:951][621]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:952][621]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:967][622]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:967][622]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:967][622]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:984][623]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:984][623]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.22:984][623]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:000][624]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:001][624]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:001][624]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:017][625]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:018][625]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:018][625]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:034][626]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:034][626]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:034][626]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:051][627]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:051][627]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:051][627]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:067][628]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:067][628]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:067][628]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:084][629]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:084][629]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:084][629]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:101][630]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:101][630]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:101][630]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:117][631]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:118][631]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:118][631]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:134][632]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:134][632]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:135][632]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:151][633]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:151][633]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:151][633]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:168][634]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.23:168][634]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.bp_door_parents_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.11.20-02.27.25:360][765]LogEditorTransaction: Undo Modify Component(s)
+[2023.11.20-02.27.26:512][810]LogEditorTransaction: Undo Modify Component(s)
+[2023.11.20-02.27.27:038][839]LogEditorTransaction: Undo Select Interpolation Mode
+[2023.11.20-02.27.27:513][865]LogEditorTransaction: Undo New Value Entered
+[2023.11.20-02.27.27:976][890]LogEditorTransaction: Undo New Value Entered
+[2023.11.20-02.27.28:950][946]LogEditorTransaction: Undo New Value Entered
+[2023.11.20-02.27.34:867][275]LogEditorTransaction: Redo New Value Entered
+[2023.11.20-02.27.35:897][315]LogEditorTransaction: Redo New Value Entered
+[2023.11.20-02.27.36:908][372]LogEditorTransaction: Redo New Value Entered
+[2023.11.20-02.27.38:642][472]LogEditorTransaction: Redo Select Interpolation Mode
+[2023.11.20-02.27.41:958][649]LogEditorTransaction: Redo Modify Component(s)
+[2023.11.20-02.27.43:076][713]BlueprintLog: New page: Compile bp_door_parents
+[2023.11.20-02.27.43:143][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.20-02.29.14:217][231]BlueprintLog: New page: Compile bp_door_parents
+[2023.11.20-02.29.14:295][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.20-02.29.14:794][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.29.14:909][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bp_door_parents" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset" SILENT=true
+[2023.11.20-02.29.14:916][259]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bp_door_parents
+[2023.11.20-02.29.14:920][259]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bp_door_parents4718E18F4F7A4AEA3E9DB2ACBE178BF6.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset'
+[2023.11.20-02.29.14:929][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 5.82 sec)
+[2023.11.20-02.29.14:933][259]AssetCheck: New page: Asset Save: bp_door_parents
+[2023.11.20-02.29.14:933][259]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-02.29.27:895][803]BlueprintLog: New page: Compile bp_door_parents
+[2023.11.20-02.29.27:935][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.20-02.29.28:571][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.29.28:696][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bp_door_parents" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset" SILENT=true
+[2023.11.20-02.29.28:703][838]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bp_door_parents
+[2023.11.20-02.29.28:706][838]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bp_door_parentsDD38406D486025D9BE4076BAE0997303.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset'
+[2023.11.20-02.29.28:714][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 5.96 sec)
+[2023.11.20-02.29.28:719][838]AssetCheck: New page: Asset Save: bp_door_parents
+[2023.11.20-02.29.28:719][838]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-02.30.04:288][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.11.20-02.30.04:295][ 85]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN_Auto0
+[2023.11.20-02.30.04:295][ 85]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/MTJZMCRG5TO6OGIS94WVSN_Auto038702EF04E37A4A84DD776A466846D59.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN_Auto0.uasset'
+[2023.11.20-02.30.04:304][ 85]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.041
+[2023.11.20-02.30.04:304][ 85]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2023.11.20-02.30.29:261][489]BlueprintLog: New page: Compile bp_door_parents
+[2023.11.20-02.30.29:301][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.11.20-02.30.30:053][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.30.30:133][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bp_door_parents" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset" SILENT=true
+[2023.11.20-02.30.30:141][571]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bp_door_parents
+[2023.11.20-02.30.30:144][571]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bp_door_parents8637614C4400DF0F84F6E681FF512A25.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset'
+[2023.11.20-02.30.30:152][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 6.06 sec)
+[2023.11.20-02.30.30:158][571]AssetCheck: New page: Asset Save: bp_door_parents
+[2023.11.20-02.30.30:158][571]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-02.30.35:598][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.30.46:461][582]LogContentBrowser: Deferred new asset file creation: bp_door_parents_Child
+[2023.11.20-02.30.46:488][582]LogContentBrowser: Creating deferred item: bp_door_parents_Child
+[2023.11.20-02.30.46:521][583]LogContentBrowser: Renaming the item being created (Deferred Item: bp_door_parents_Child).
+[2023.11.20-02.30.49:678][756]LogContentBrowser: Attempting asset rename: bp_door_parents_Child -> door_child
+[2023.11.20-02.30.49:688][756]LogContentBrowser: End creating deferred item bp_door_parents_Child
+[2023.11.20-02.30.49:689][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.30.56:508][914]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Doors/door_child.door_child
+[2023.11.20-02.30.56:508][914]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.30.56:508][914]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-02.30.56:606][914]LogViewport: Scene viewport resized to 975x630, mode Windowed.
+[2023.11.20-02.30.56:642][915]LogViewport: Scene viewport resized to 975x617, mode Windowed.
+[2023.11.20-02.31.52:021][455]BlueprintLog: New page: Compile door_child
+[2023.11.20-02.31.52:073][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.11.20-02.31.52:751][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.31.52:840][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/door_child" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/door_child.uasset" SILENT=true
+[2023.11.20-02.31.52:847][523]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/door_child
+[2023.11.20-02.31.52:847][523]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/door_childB4B2399346DDB57451F1EDB6B416DEE1.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/door_child.uasset'
+[2023.11.20-02.31.52:857][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 6.17 sec)
+[2023.11.20-02.31.52:864][523]AssetCheck: New page: Asset Save: door_child
+[2023.11.20-02.31.52:864][523]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/door_child.door_child
+[2023.11.20-02.34.18:615][992]BlueprintLog: New page: Compile door_child
+[2023.11.20-02.34.18:656][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.11.20-02.34.19:530][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.34.19:622][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/door_child" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/door_child.uasset" SILENT=true
+[2023.11.20-02.34.19:627][ 55]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/door_child
+[2023.11.20-02.34.19:630][ 55]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/door_child1FDBDE9A4782162E2001ED8CFC537AFA.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/door_child.uasset'
+[2023.11.20-02.34.19:641][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 6.28 sec)
+[2023.11.20-02.34.19:647][ 55]AssetCheck: New page: Asset Save: door_child
+[2023.11.20-02.34.19:647][ 55]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/door_child.door_child
+[2023.11.20-02.34.29:160][188]BlueprintLog: New page: Compile door_child
+[2023.11.20-02.34.29:201][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.20-02.34.29:726][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.34.29:829][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/door_child" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/door_child.uasset" SILENT=true
+[2023.11.20-02.34.29:835][241]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/door_child
+[2023.11.20-02.34.29:838][241]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/door_child7ED630EA445EB911078399AE80CB45FA.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/door_child.uasset'
+[2023.11.20-02.34.29:845][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 6.40 sec)
+[2023.11.20-02.34.29:851][241]AssetCheck: New page: Asset Save: door_child
+[2023.11.20-02.34.29:851][241]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/door_child.door_child
+[2023.11.20-02.34.54:160][495]LogContentBrowser: Attempting asset rename: door_child -> BPC_Door_Overlap
+[2023.11.20-02.34.54:182][495]LogMetaData: Removing '/Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Doors/door_child.PackageMetaData'
+[2023.11.20-02.34.54:182][495]LogMetaData: Removing '/Game/Blueprints/Doors/BPC_Door_Overlap.SKEL_BPC_Door_Overlap_C' ref from Metadata '/Game/Blueprints/Doors/door_child.PackageMetaData'
+[2023.11.20-02.34.54:182][495]LogMetaData: Removing '/Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C' ref from Metadata '/Game/Blueprints/Doors/door_child.PackageMetaData'
+[2023.11.20-02.34.54:182][495]LogMetaData: Removing '/Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Doors/door_child.PackageMetaData'
+[2023.11.20-02.34.54:182][495]LogMetaData: Removing '/Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Doors/door_child.PackageMetaData'
+[2023.11.20-02.34.54:182][495]LogMetaData: Removing '/Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Doors/door_child.PackageMetaData'
+[2023.11.20-02.34.54:183][495]LogMetaData: Removing '/Game/Blueprints/Doors/BPC_Door_Overlap.SKEL_BPC_Door_Overlap_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Doors/door_child.PackageMetaData'
+[2023.11.20-02.34.54:183][495]LogMetaData: Removing '/Game/Blueprints/Doors/BPC_Door_Overlap.SKEL_BPC_Door_Overlap_C:BndEvt__door_child_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Doors/door_child.PackageMetaData'
+[2023.11.20-02.34.54:183][495]LogMetaData: Removing '/Game/Blueprints/Doors/BPC_Door_Overlap.SKEL_BPC_Door_Overlap_C:BndEvt__door_child_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Doors/door_child.PackageMetaData'
+[2023.11.20-02.34.54:183][495]LogMetaData: Removing '/Game/Blueprints/Doors/BPC_Door_Overlap.SKEL_BPC_Door_Overlap_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Doors/door_child.PackageMetaData'
+[2023.11.20-02.34.54:183][495]LogMetaData: Removing '/Game/Blueprints/Doors/BPC_Door_Overlap.SKEL_BPC_Door_Overlap_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Doors/door_child.PackageMetaData'
+[2023.11.20-02.34.54:183][495]LogMetaData: Removing '/Game/Blueprints/Doors/BPC_Door_Overlap.SKEL_BPC_Door_Overlap_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Doors/door_child.PackageMetaData'
+[2023.11.20-02.34.54:183][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.34.54:275][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/BPC_Door_Overlap" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BPC_Door_Overlap.uasset" SILENT=true
+[2023.11.20-02.34.54:283][495]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/BPC_Door_Overlap
+[2023.11.20-02.34.54:283][495]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BPC_Door_Overlap7B4665684F3689AF3FAFD5A999775ABE.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BPC_Door_Overlap.uasset'
+[2023.11.20-02.34.54:299][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 6.52 sec)
+[2023.11.20-02.34.54:336][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.20-02.34.54:360][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.20-02.34.54:380][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.20-02.34.54:386][495]AssetCheck: New page: Asset Save: BPC_Door_Overlap
+[2023.11.20-02.34.54:386][495]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap
+[2023.11.20-02.34.54:388][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.34.55:875][557]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C
+[2023.11.20-02.34.55:875][557]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C
+[2023.11.20-02.34.55:877][557]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap as actor: BPC_Door_Overlap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Door_Overlap_C_0
+[2023.11.20-02.34.55:879][557]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap as actor: BPC_Door_Overlap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Door_Overlap_C_0
+[2023.11.20-02.34.57:525][632]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C
+[2023.11.20-02.34.57:525][632]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C
+[2023.11.20-02.34.57:528][632]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap as actor: BPC_Door_Overlap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Door_Overlap_C_UAID_105107B09B76FDBD01_1645996271
+[2023.11.20-02.34.57:531][632]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap as actor: BPC_Door_Overlap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Door_Overlap_C_UAID_105107B09B76FDBD01_1645996271
+[2023.11.20-02.34.58:720][688]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-02.34.58:730][688]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.20-02.34.58:733][688]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.20-02.34.58:733][688]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.20-02.34.58:733][688]LogWorldPartition: Display: GetPartitionedActors took 12 us (total: 1 ms)
+[2023.11.20-02.34.58:733][688]LogWorldPartition: Display: GenerateStreaming took 254 us (total: 7 ms)
+[2023.11.20-02.34.58:741][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-02.34.58:741][688]PIE: New page: PIE session: FirstPersonMap (Nov 19, 2023, 4:34:58 PM)
+[2023.11.20-02.34.58:741][688]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.34.58:747][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005939s)
+[2023.11.20-02.34.58:747][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005987s)
+[2023.11.20-02.34.58:747][688]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-02.34.58:747][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-02.34.58:748][688]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-02.34.58:748][688]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-02.34.58:748][688]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-02.34.58:748][688]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-02.34.58:749][688]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-02.34.58:749][688]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 979 ms)
+[2023.11.20-02.34.58:749][688]LogPlayLevel: PIE: World Init took: (0.002176s)
+[2023.11.20-02.34.58:769][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.20-02.34.58:774][688]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.11.20-02.34.58:774][688]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-02.34.58:774][688]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-02.34.58:774][688]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-02.34.58:774][688]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-02.34.58:774][688]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-02.34.58:774][688]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-02.34.58:774][688]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-02.34.58:774][688]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-02.34.58:774][688]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-02.34.58:774][688]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-02.34.58:774][688]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-02.34.58:777][688]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-02.34.58:871][688]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.20-02.34.58:871][688]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-02.34.58:871][688]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-02.34.58:871][688]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-02.34.58:872][688]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.11.20-02.34.58:872][688]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.11.20-02.34.58:873][688]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.11.20-02.34.58:873][688]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.11.20-02.34.58:873][688]LogInit: FAudioDevice initialized with ID 20.
+[2023.11.20-02.34.58:873][688]LogAudio: Display: Audio Device (ID: 20) registered with world 'FirstPersonMap'.
+[2023.11.20-02.34.58:873][688]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.11.20-02.34.58:877][688]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-02.34.58:880][688]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.19-21.34.58
+[2023.11.20-02.34.58:880][688]LogWorld: Bringing up level for play took: 0.003068
+[2023.11.20-02.34.58:882][688]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.11.20-02.34.58:885][688]PIE: Server logged in
+[2023.11.20-02.34.58:886][688]PIE: Play in editor total start time 0.156 seconds.
+[2023.11.20-02.34.58:903][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.34.58:909][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.35.17:240][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.35.17:240][531]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-02.35.17:240][531]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-02.35.17:240][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.35.17:240][531]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-02.35.17:288][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-02.35.17:292][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-02.35.17:311][531]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-02.35.17:311][531]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.11.20-02.35.17:311][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.11.20-02.35.17:313][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.11.20-02.35.17:320][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-02.35.17:323][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.20-02.35.17:363][531]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.35.17:370][532]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.11.20-02.35.17:379][532]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-02.35.18:629][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-02.35.18:720][577]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN
+[2023.11.20-02.35.18:724][577]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/MTJZMCRG5TO6OGIS94WVSN5786F4944B394DFAA7EA3AB958D9E491.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN.uasset'
+[2023.11.20-02.35.18:734][577]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/5O/WE0LT5HO50AVCDOIA3N9HG
+[2023.11.20-02.35.18:734][577]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/WE0LT5HO50AVCDOIA3N9HG9FE6AC7349CAF68EFE5AB6AE2C7FA4C3.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/5O/WE0LT5HO50AVCDOIA3N9HG.uasset'
+[2023.11.20-02.35.18:748][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 6.63 sec)
+[2023.11.20-02.35.18:751][577]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-02.35.18:751][577]LogContentValidation: Display: Validating /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Door_Overlap_C_UAID_105107B09B76FDBD01_1645996271
+[2023.11.20-02.35.18:751][577]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_UAID_105107B09B7602BD01_2110643095

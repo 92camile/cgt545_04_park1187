@@ -6157,3 +6157,704 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.20-03.17.09:889][936]AssetCheck: New page: Asset Save: multiple assets
 [2023.11.20-03.17.09:889][936]LogContentValidation: Display: Validating /Game/Blueprints/Doors/BP+Pressureplate.BP+Pressureplate_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP+Pressureplate_C_UAID_105107B09B76FEBD01_1764874449
 [2023.11.20-03.17.09:889][936]LogContentValidation: Display: Validating /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bpc_door_interact_C_UAID_105107B09B76FFBD01_2007281627
+[2023.11.20-03.18.18:801][148]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.20-03.18.18:814][149]LogAutomationController: Ignoring very large delta of 4.68 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.20-03.18.22:888][310]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.11.20-03.18.22:900][310]LogContentBrowser: Creating deferred item: NewInterface
+[2023.11.20-03.18.22:913][311]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2023.11.20-03.18.36:485][781]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Interaction
+[2023.11.20-03.18.36:492][781]LogContentBrowser: End creating deferred item NewInterface
+[2023.11.20-03.18.37:672][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FirstPersonTemplate/BPI_Interaction.BPI_Interaction
+[2023.11.20-03.18.37:673][835]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.18.37:673][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-03.18.49:886][226]BlueprintLog: New page: Compile BPI_Interaction
+[2023.11.20-03.18.49:920][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.20-03.18.50:339][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-03.18.50:433][274]LogSavePackage: Moving output files for package: /Game/Blueprints/FirstPersonTemplate/BPI_Interaction
+[2023.11.20-03.18.50:433][274]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BPI_Interaction095831784EC0E790F3A9FEB19664AF55.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/FirstPersonTemplate/BPI_Interaction.uasset'
+[2023.11.20-03.18.50:449][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 8.37 sec)
+[2023.11.20-03.18.50:455][274]AssetCheck: New page: Asset Save: BPI_Interaction
+[2023.11.20-03.18.50:455][274]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FirstPersonTemplate/BPI_Interaction.BPI_Interaction
+[2023.11.20-03.19.07:776][ 43]LogContentBrowser: Deferred new asset file creation: bp_door_parents_Child
+[2023.11.20-03.19.07:807][ 43]LogContentBrowser: Creating deferred item: bp_door_parents_Child
+[2023.11.20-03.19.07:819][ 44]LogContentBrowser: Renaming the item being created (Deferred Item: bp_door_parents_Child).
+[2023.11.20-03.19.09:512][131]LogContentBrowser: Attempting asset rename: bp_door_parents_Child -> bp_door_parents_Child
+[2023.11.20-03.19.09:519][131]LogContentBrowser: End creating deferred item bp_door_parents_Child
+[2023.11.20-03.19.09:520][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.19.22:523][624]LogContentBrowser: Attempting asset rename: bp_door_parents_Child -> bpc_door_interface
+[2023.11.20-03.19.22:552][624]LogMetaData: Removing '/Game/Blueprints/Doors/bpc_door_interface.bpc_door_interface:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Doors/bp_door_parents_Child.PackageMetaData'
+[2023.11.20-03.19.22:552][624]LogMetaData: Removing '/Game/Blueprints/Doors/bpc_door_interface.SKEL_bpc_door_interface_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Doors/bp_door_parents_Child.PackageMetaData'
+[2023.11.20-03.19.22:552][624]LogMetaData: Removing '/Game/Blueprints/Doors/bpc_door_interface.SKEL_bpc_door_interface_C' ref from Metadata '/Game/Blueprints/Doors/bp_door_parents_Child.PackageMetaData'
+[2023.11.20-03.19.22:552][624]LogMetaData: Removing '/Game/Blueprints/Doors/bpc_door_interface.bpc_door_interface_C' ref from Metadata '/Game/Blueprints/Doors/bp_door_parents_Child.PackageMetaData'
+[2023.11.20-03.19.22:552][624]LogMetaData: Removing '/Game/Blueprints/Doors/bpc_door_interface.bpc_door_interface:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Doors/bp_door_parents_Child.PackageMetaData'
+[2023.11.20-03.19.22:552][624]LogMetaData: Removing '/Game/Blueprints/Doors/bpc_door_interface.bpc_door_interface:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Doors/bp_door_parents_Child.PackageMetaData'
+[2023.11.20-03.19.22:552][624]LogMetaData: Removing '/Game/Blueprints/Doors/bpc_door_interface.bpc_door_interface:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Doors/bp_door_parents_Child.PackageMetaData'
+[2023.11.20-03.19.22:553][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-03.19.22:636][624]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.19.22:683][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bpc_door_interface" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bpc_door_interface.uasset" SILENT=true
+[2023.11.20-03.19.22:690][624]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bpc_door_interface
+[2023.11.20-03.19.22:690][624]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bpc_door_interfaceD410D6724BB5AB7CB46E4ABDE96E088F.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bpc_door_interface.uasset'
+[2023.11.20-03.19.22:707][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 8.53 sec)
+[2023.11.20-03.19.22:742][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.20-03.19.22:771][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.11.20-03.19.22:795][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.20-03.19.22:802][624]AssetCheck: New page: Asset Save: bpc_door_interface
+[2023.11.20-03.19.22:802][624]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bpc_door_interface.bpc_door_interface
+[2023.11.20-03.19.27:777][910]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Doors/bpc_door_interface.bpc_door_interface
+[2023.11.20-03.19.27:777][910]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.19.27:778][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-03.19.27:955][910]LogViewport: Scene viewport resized to 975x617, mode Windowed.
+[2023.11.20-03.20.40:367][ 23]BlueprintLog: New page: Compile bpc_door_interface
+[2023.11.20-03.20.40:403][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.20-03.20.41:040][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-03.20.41:143][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bpc_door_interface" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bpc_door_interface.uasset" SILENT=true
+[2023.11.20-03.20.41:150][ 96]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bpc_door_interface
+[2023.11.20-03.20.41:153][ 96]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bpc_door_interface3FA51ECA45241BDAF27C89AFF2A968EE.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bpc_door_interface.uasset'
+[2023.11.20-03.20.41:162][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 8.65 sec)
+[2023.11.20-03.20.41:169][ 96]AssetCheck: New page: Asset Save: bpc_door_interface
+[2023.11.20-03.20.41:169][ 96]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bpc_door_interface.bpc_door_interface
+[2023.11.20-03.21.04:481][673]BlueprintLog: New page: Compile bpc_door_interface
+[2023.11.20-03.21.04:529][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.11.20-03.21.04:898][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-03.21.04:987][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/bpc_door_interface" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bpc_door_interface.uasset" SILENT=true
+[2023.11.20-03.21.04:994][704]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/bpc_door_interface
+[2023.11.20-03.21.04:997][704]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bpc_door_interface48E32F5B407ED8DDE79E19ACD7FAD784.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bpc_door_interface.uasset'
+[2023.11.20-03.21.05:005][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 8.76 sec)
+[2023.11.20-03.21.05:010][704]AssetCheck: New page: Asset Save: bpc_door_interface
+[2023.11.20-03.21.05:011][704]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Doors/bpc_door_interface.bpc_door_interface
+[2023.11.20-03.21.17:684][586]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.21.17:684][586]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.21.17:684][586]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.21.17:685][586]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.21.17:685][586]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.21.17:685][586]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.21.17:732][586]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Assets/FirstPerson/Animations/FirstPerson_Idle.FirstPerson_Idle
+[2023.11.20-03.21.17:736][586]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Assets/FirstPerson/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd
+[2023.11.20-03.21.17:740][586]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Assets/FirstPerson/Animations/FirstPerson_JumpLoop.FirstPerson_JumpLoop
+[2023.11.20-03.21.17:744][586]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Assets/FirstPerson/Animations/FirstPerson_JumpStart.FirstPerson_JumpStart
+[2023.11.20-03.21.17:747][586]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Assets/FirstPerson/Animations/FirstPerson_Run.FirstPerson_Run
+[2023.11.20-03.21.17:752][586]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Assets/FirstPerson/Animations/FirstPerson_Fire.FirstPerson_Fire
+[2023.11.20-03.21.17:752][586]LogStaticMesh: Display: Building static mesh FirstPersonProjectileMesh...
+[2023.11.20-03.21.17:769][586]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2023.11.20-03.21.17:776][586]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.20-03.21.17:776][586]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.21.17:776][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-03.21.17:896][586]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: ================================================
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Total job queries 12, among them cache hits 2 (16.67%)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 5 distinct outputs (100.00%)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: RAM used: 83.35 KiB of 1.60 GiB budget. Usage: 0.00%
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Shaders Compiled: 5
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Jobs assigned 10, completed 5 (50.00%)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Average time worker was idle: 2040.69 s
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.05 s
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Job execution time: average 1.20 s, max 1.27 s
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Job life time (pending + execution): average 1.23 s, max 1.29
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.47 s
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Average processing rate: 2.02 jobs/sec
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Total thread time: 2.263 s
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Total thread preprocess time: 0.209 s
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Percentage time preprocessing: 9.25%
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Effective parallelization: 0.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.95% of total time (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display:                                                  FHitProxyPS - 23.48% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.41% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.35% of total time (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.81% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.11.20-03.21.19:101][638]LogShaderCompilers: Display: ================================================
+[2023.11.20-03.21.29:526][382]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-03.21.29:526][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.29.20:100][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.20-03.29.20:106][639]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.030
+[2023.11.20-03.29.20:106][639]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Doors/bpc_door_interact] ([2] browsable assets)...
+[2023.11.20-03.29.20:176][639]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact]
+[2023.11.20-03.29.20:176][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Doors/bpc_door_interact]
+[2023.11.20-03.29.20:185][639]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Doors/bpc_door_interact_Auto3
+[2023.11.20-03.29.20:185][639]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/bpc_door_interact_Auto38B6F9A914C9A125428D18991D56B87D9.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/Autosaves/Game/Blueprints/Doors/bpc_door_interact_Auto3.uasset'
+[2023.11.20-03.29.20:189][639]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.11.20-03.29.20:223][639]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.11.20-03.29.20:223][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter]
+[2023.11.20-03.29.20:240][639]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter_Auto3
+[2023.11.20-03.29.20:240][639]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacter_Auto3FAA1F24949EDC87DA7A90DABCC580A32.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/Autosaves/Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter_Auto3.uasset'
+[2023.11.20-03.29.20:245][639]LogFileHelpers: Auto-saving content packages took 0.139
+[2023.11.20-03.31.27:835][860]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.31.27:841][860]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.31.27:841][860]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.31.27:841][860]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.31.27:841][860]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.31.27:841][860]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.31.27:841][860]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.31.27:881][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.20-03.31.28:352][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-03.31.28:457][898]LogSavePackage: Moving output files for package: /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter
+[2023.11.20-03.31.28:460][898]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacter149E57BE46D3792AFE8A4B9CDFEF3EE6.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.uasset'
+[2023.11.20-03.31.28:475][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 8.88 sec)
+[2023.11.20-03.31.28:483][898]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.20-03.31.28:483][898]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.20-03.31.48:561][820]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-03.31.48:570][820]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.20-03.31.48:571][820]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.20-03.31.48:571][820]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.20-03.31.48:571][820]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 1 ms)
+[2023.11.20-03.31.48:571][820]LogWorldPartition: Display: GenerateStreaming took 184 us (total: 10 ms)
+[2023.11.20-03.31.48:572][820]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.20-03.31.48:572][820]LogPlayLevel: [PlayLevel] Compiling bpc_door_interact before play...
+[2023.11.20-03.31.48:628][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.20-03.31.48:631][820]LogPlayLevel: PlayLevel: Blueprint regeneration took 58 ms (1 blueprints)
+[2023.11.20-03.31.48:631][820]PIE: New page: PIE session: FirstPersonMap (Nov 19, 2023, 5:31:48 PM)
+[2023.11.20-03.31.48:631][820]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-03.31.48:637][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005623s)
+[2023.11.20-03.31.48:637][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005653s)
+[2023.11.20-03.31.48:637][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.31.48:637][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-03.31.48:637][820]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-03.31.48:638][820]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-03.31.48:638][820]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-03.31.48:638][820]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-03.31.48:639][820]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-03.31.48:639][820]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 998 ms)
+[2023.11.20-03.31.48:639][820]LogPlayLevel: PIE: World Init took: (0.002425s)
+[2023.11.20-03.31.48:660][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.20-03.31.48:662][820]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.11.20-03.31.48:662][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-03.31.48:662][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-03.31.48:662][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-03.31.48:662][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-03.31.48:662][820]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-03.31.48:662][820]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-03.31.48:662][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-03.31.48:662][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-03.31.48:663][820]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-03.31.48:663][820]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-03.31.48:663][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-03.31.48:665][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-03.31.48:772][820]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.20-03.31.48:772][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-03.31.48:772][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-03.31.48:772][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-03.31.48:775][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.11.20-03.31.48:775][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.11.20-03.31.48:776][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.11.20-03.31.48:776][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.11.20-03.31.48:776][820]LogInit: FAudioDevice initialized with ID 31.
+[2023.11.20-03.31.48:776][820]LogAudio: Display: Audio Device (ID: 31) registered with world 'FirstPersonMap'.
+[2023.11.20-03.31.48:776][820]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2023.11.20-03.31.48:779][820]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-03.31.48:783][820]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.19-22.31.48
+[2023.11.20-03.31.48:783][820]LogWorld: Bringing up level for play took: 0.003256
+[2023.11.20-03.31.48:784][820]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.11.20-03.31.48:788][820]PIE: Server logged in
+[2023.11.20-03.31.48:789][820]PIE: Play in editor total start time 0.219 seconds.
+[2023.11.20-03.31.48:797][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.31.49:186][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.31.59:896][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-03.31.59:897][307]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-03.31.59:897][307]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-03.31.59:897][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.31.59:897][307]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-03.31.59:902][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-03.31.59:906][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.31.59:926][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-03.31.59:926][307]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2023.11.20-03.31.59:926][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.11.20-03.31.59:928][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.11.20-03.31.59:939][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.11.20-03.31.59:991][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.32.00:007][308]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.11.20-03.32.00:446][308]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.32.09:085][747]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.32.09:089][747]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.32.09:089][747]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.32.09:089][747]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.32.09:090][747]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.32.09:090][747]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.32.09:090][747]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.32.09:130][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.11.20-03.32.10:465][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-03.32.10:597][887]LogSavePackage: Moving output files for package: /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter
+[2023.11.20-03.32.10:600][887]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacterBA1FF1AD421C8B7AC8311399BCEAA93D.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.uasset'
+[2023.11.20-03.32.10:609][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 9.02 sec)
+[2023.11.20-03.32.10:615][887]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.20-03.32.10:615][887]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.20-03.32.11:081][939]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.32.11:085][939]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.32.11:086][939]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.32.11:086][939]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.32.11:086][939]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.32.11:086][939]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.32.11:086][939]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.32.11:126][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.20-03.32.11:758][997]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.32.11:763][997]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.32.11:763][997]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.32.11:763][997]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.32.11:763][997]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.32.11:763][997]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.32.11:763][997]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.32.11:805][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.20-03.32.11:959][998]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.32.11:964][998]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.32.11:964][998]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.32.11:964][998]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.32.11:964][998]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.32.11:964][998]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.32.11:964][998]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.32.12:006][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.20-03.32.12:113][998]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.32.12:117][998]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.32.12:117][998]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.32.12:117][998]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.32.12:118][998]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.32.12:118][998]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.32.12:118][998]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.32.12:158][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.11.20-03.32.14:239][239]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.32.14:244][239]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.32.14:244][239]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.32.14:244][239]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.32.14:244][239]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.32.14:244][239]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.32.14:244][239]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.32.14:287][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.20-03.32.15:400][355]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.32.15:405][355]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.32.15:405][355]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.32.15:405][355]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.32.15:405][355]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.32.15:406][355]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.32.15:406][355]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.32.15:447][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.20-03.32.17:512][585]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.32.17:516][585]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.32.17:516][585]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.32.17:516][585]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.32.17:517][585]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.32.17:517][585]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.32.17:517][585]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.32.17:558][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.20-03.32.35:387][700]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.32.35:391][700]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.32.35:391][700]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.32.35:391][700]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.32.35:391][700]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.32.35:392][700]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.32.35:392][700]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.32.35:439][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.20-03.32.36:097][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-03.32.36:219][752]LogSavePackage: Moving output files for package: /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter
+[2023.11.20-03.32.36:223][752]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacter6D7C36324C5B82226B78E5AA251AB378.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.uasset'
+[2023.11.20-03.32.36:233][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 9.16 sec)
+[2023.11.20-03.32.36:239][752]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.20-03.32.36:239][752]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.20-03.32.50:247][423]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.32.50:252][423]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.32.50:252][423]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.32.50:252][423]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.32.50:252][423]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.32.50:252][423]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.32.50:253][423]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.32.50:298][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.20-03.32.50:904][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-03.32.51:012][469]LogSavePackage: Moving output files for package: /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter
+[2023.11.20-03.32.51:015][469]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacterE474617640B463641180B7B247AB128E.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.uasset'
+[2023.11.20-03.32.51:024][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 9.28 sec)
+[2023.11.20-03.32.51:030][469]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.20-03.32.51:030][469]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.20-03.32.52:705][602]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-03.32.52:716][602]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.20-03.32.52:718][602]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.20-03.32.52:718][602]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.20-03.32.52:718][602]LogWorldPartition: Display: GetPartitionedActors took 10 us (total: 1 ms)
+[2023.11.20-03.32.52:718][602]LogWorldPartition: Display: GenerateStreaming took 216 us (total: 10 ms)
+[2023.11.20-03.32.52:719][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-03.32.52:719][602]PIE: New page: PIE session: FirstPersonMap (Nov 19, 2023, 5:32:52 PM)
+[2023.11.20-03.32.52:719][602]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-03.32.52:725][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006554s)
+[2023.11.20-03.32.52:725][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006608s)
+[2023.11.20-03.32.52:725][602]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.32.52:726][602]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-03.32.52:726][602]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-03.32.52:726][602]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-03.32.52:726][602]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-03.32.52:726][602]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-03.32.52:728][602]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-03.32.52:728][602]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.00 sec)
+[2023.11.20-03.32.52:728][602]LogPlayLevel: PIE: World Init took: (0.002776s)
+[2023.11.20-03.32.52:750][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.20-03.32.52:754][602]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.11.20-03.32.52:754][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-03.32.52:754][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-03.32.52:754][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-03.32.52:754][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-03.32.52:754][602]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-03.32.52:754][602]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-03.32.52:754][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-03.32.52:754][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-03.32.52:754][602]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-03.32.52:754][602]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-03.32.52:754][602]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-03.32.52:757][602]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-03.32.52:871][602]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.20-03.32.52:871][602]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-03.32.52:871][602]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-03.32.52:871][602]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-03.32.52:872][602]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.11.20-03.32.52:872][602]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.11.20-03.32.52:873][602]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.11.20-03.32.52:873][602]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.11.20-03.32.52:873][602]LogInit: FAudioDevice initialized with ID 32.
+[2023.11.20-03.32.52:873][602]LogAudio: Display: Audio Device (ID: 32) registered with world 'FirstPersonMap'.
+[2023.11.20-03.32.52:874][602]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2023.11.20-03.32.52:877][602]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-03.32.52:880][602]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.19-22.32.52
+[2023.11.20-03.32.52:880][602]LogWorld: Bringing up level for play took: 0.003458
+[2023.11.20-03.32.52:882][602]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.11.20-03.32.52:886][602]PIE: Server logged in
+[2023.11.20-03.32.52:887][602]PIE: Play in editor total start time 0.171 seconds.
+[2023.11.20-03.32.52:905][602]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.32.52:913][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.33.04:757][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-03.33.04:757][142]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-03.33.04:757][142]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-03.33.04:757][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.33.04:758][142]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-03.33.04:763][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-03.33.04:767][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.33.04:790][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-03.33.04:790][142]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2023.11.20-03.33.04:790][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.11.20-03.33.04:792][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.11.20-03.33.04:800][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-03.33.04:803][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.20-03.33.04:840][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.33.04:857][143]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.11.20-03.33.04:868][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.33.13:566][394]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.20-03.33.13:566][394]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-03.33.13:566][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.33.13:649][394]LogViewport: Scene viewport resized to 1134x877, mode Windowed.
+[2023.11.20-03.33.13:701][395]LogViewport: Scene viewport resized to 1134x842, mode Windowed.
+[2023.11.20-03.33.13:764][396]LogViewport: Scene viewport resized to 1134x839, mode Windowed.
+[2023.11.20-03.33.14:849][452]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-03.33.14:849][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.33.14:903][452]LogViewport: Scene viewport resized to 1134x893, mode Windowed.
+[2023.11.20-03.33.14:969][453]LogViewport: Scene viewport resized to 1134x849, mode Windowed.
+[2023.11.20-03.33.15:022][454]LogViewport: Scene viewport resized to 1134x839, mode Windowed.
+[2023.11.20-03.33.15:915][498]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.20-03.33.15:915][498]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-03.33.15:915][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.33.15:969][498]LogViewport: Scene viewport resized to 1134x886, mode Windowed.
+[2023.11.20-03.33.16:035][499]LogViewport: Scene viewport resized to 1134x848, mode Windowed.
+[2023.11.20-03.33.16:071][500]LogViewport: Scene viewport resized to 1134x839, mode Windowed.
+[2023.11.20-03.34.56:557][948]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.34.56:562][948]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.34.56:562][948]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.34.56:562][948]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.34.56:562][948]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.34.56:562][948]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.34.56:562][948]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.34.56:606][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.20-03.34.57:341][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-03.34.57:459][ 14]LogSavePackage: Moving output files for package: /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter
+[2023.11.20-03.34.57:462][ 14]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacterEAA8CFC64D2194DCE05170B274B0548C.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.uasset'
+[2023.11.20-03.34.57:471][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 9.41 sec)
+[2023.11.20-03.34.57:477][ 14]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.20-03.34.57:477][ 14]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.20-03.36.10:125][320]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.20-03.36.10:131][320]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2023.11.20-03.36.10:131][320]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.11.20-03.36.10:131][320]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.11.20-03.36.10:132][320]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.11.20-03.36.10:132][320]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.11.20-03.36.10:132][320]LogBlueprint: Warning: [AssetLog] C:\temp\cgt545_04_park1187\MyProject2\Content\Blueprints\FirstPersonTemplate\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.11.20-03.36.10:182][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.20-03.36.11:308][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-03.36.11:447][421]LogSavePackage: Moving output files for package: /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter
+[2023.11.20-03.36.11:451][421]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/BP_FirstPersonCharacter0FEC1701497D2258DCF9E9B2F4575826.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.uasset'
+[2023.11.20-03.36.11:463][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 9.57 sec)
+[2023.11.20-03.36.11:469][421]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.20-03.36.11:469][421]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.20-03.36.21:860][911]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Doors/bp_door_parents.bp_door_parents
+[2023.11.20-03.36.21:861][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.36.21:861][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-03.36.26:547][171]LogViewport: Scene viewport resized to 975x689, mode Windowed.
+[2023.11.20-03.37.44:604][223]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2023.11.20-03.37.44:622][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.37.44:623][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-03.37.45:212][223]LogViewport: Scene viewport resized to 1398x839, mode Windowed.
+[2023.11.20-03.38.20:717][101]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2023.11.20-03.38.20:721][101]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.38.20:721][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-03.38.21:296][101]LogViewport: Scene viewport resized to 1398x839, mode Windowed.
+[2023.11.20-03.38.37:849][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-03.38.37:978][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Door" FILE="../../../../../../temp/cgt545_04_park1187/MyProject2/Content/StarterContent/Props/SM_Door.uasset" SILENT=true
+[2023.11.20-03.38.37:985][676]LogSavePackage: Moving output files for package: /Game/StarterContent/Props/SM_Door
+[2023.11.20-03.38.37:988][676]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/SM_DoorAC68DBEF4C77ECF7EB4F178AA3BBC600.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/StarterContent/Props/SM_Door.uasset'
+[2023.11.20-03.38.37:999][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 9.72 sec)
+[2023.11.20-03.38.38:003][676]AssetCheck: New page: Asset Save: SM_Door
+[2023.11.20-03.38.38:003][676]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2023.11.20-03.38.39:583][775]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-03.38.39:583][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.38.40:708][840]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-03.38.40:709][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.38.43:517][ 55]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-03.38.43:527][ 55]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.20-03.38.43:529][ 55]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.20-03.38.43:529][ 55]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.20-03.38.43:529][ 55]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 1 ms)
+[2023.11.20-03.38.43:529][ 55]LogWorldPartition: Display: GenerateStreaming took 182 us (total: 10 ms)
+[2023.11.20-03.38.43:529][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-03.38.43:529][ 55]PIE: New page: PIE session: FirstPersonMap (Nov 19, 2023, 5:38:43 PM)
+[2023.11.20-03.38.43:529][ 55]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-03.38.43:535][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005362s)
+[2023.11.20-03.38.43:535][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005387s)
+[2023.11.20-03.38.43:535][ 55]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.38.43:535][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-03.38.43:535][ 55]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-03.38.43:536][ 55]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-03.38.43:536][ 55]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-03.38.43:536][ 55]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-03.38.43:537][ 55]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-03.38.43:537][ 55]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.00 sec)
+[2023.11.20-03.38.43:537][ 55]LogPlayLevel: PIE: World Init took: (0.002209s)
+[2023.11.20-03.38.43:561][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.11.20-03.38.43:565][ 55]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.11.20-03.38.43:565][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-03.38.43:565][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-03.38.43:565][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-03.38.43:565][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-03.38.43:565][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-03.38.43:565][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-03.38.43:565][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-03.38.43:565][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-03.38.43:566][ 55]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-03.38.43:566][ 55]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-03.38.43:566][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-03.38.43:568][ 55]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-03.38.43:669][ 55]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.20-03.38.43:670][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-03.38.43:670][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-03.38.43:670][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-03.38.43:670][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.11.20-03.38.43:670][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.11.20-03.38.43:671][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.11.20-03.38.43:672][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.11.20-03.38.43:672][ 55]LogInit: FAudioDevice initialized with ID 33.
+[2023.11.20-03.38.43:672][ 55]LogAudio: Display: Audio Device (ID: 33) registered with world 'FirstPersonMap'.
+[2023.11.20-03.38.43:672][ 55]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2023.11.20-03.38.43:675][ 55]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-03.38.43:678][ 55]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.19-22.38.43
+[2023.11.20-03.38.43:678][ 55]LogWorld: Bringing up level for play took: 0.003075
+[2023.11.20-03.38.43:680][ 55]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2023.11.20-03.38.43:684][ 55]PIE: Server logged in
+[2023.11.20-03.38.43:684][ 55]PIE: Play in editor total start time 0.157 seconds.
+[2023.11.20-03.38.43:701][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.38.43:707][ 56]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.38.51:327][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-03.38.51:327][382]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-03.38.51:327][382]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-03.38.51:327][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.38.51:327][382]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-03.38.51:334][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-03.38.51:338][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.38.51:359][382]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-03.38.51:359][382]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2023.11.20-03.38.51:359][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.11.20-03.38.51:361][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.11.20-03.38.51:369][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-03.38.51:372][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.20-03.38.51:387][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.38.51:403][383]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.11.20-03.38.51:408][383]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.38.59:534][739]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact_C
+[2023.11.20-03.38.59:534][739]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact_C
+[2023.11.20-03.38.59:536][739]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact as actor: bpc_door_interact_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bpc_door_interact_C_1
+[2023.11.20-03.38.59:538][739]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact as actor: bpc_door_interact_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bpc_door_interact_C_1
+[2023.11.20-03.39.01:245][819]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact_C
+[2023.11.20-03.39.01:245][819]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact_C
+[2023.11.20-03.39.01:250][819]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact as actor: bpc_door_interact_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bpc_door_interact_C_UAID_105107B09B7601BE01_1194747980
+[2023.11.20-03.39.01:252][819]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact as actor: bpc_door_interact_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bpc_door_interact_C_UAID_105107B09B7601BE01_1194747980
+[2023.11.20-03.39.02:665][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-03.39.02:675][886]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.20-03.39.02:677][886]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.20-03.39.02:677][886]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.20-03.39.02:677][886]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 1 ms)
+[2023.11.20-03.39.02:677][886]LogWorldPartition: Display: GenerateStreaming took 181 us (total: 10 ms)
+[2023.11.20-03.39.02:677][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-03.39.02:677][886]PIE: New page: PIE session: FirstPersonMap (Nov 19, 2023, 5:39:02 PM)
+[2023.11.20-03.39.02:677][886]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-03.39.02:683][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005638s)
+[2023.11.20-03.39.02:683][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005665s)
+[2023.11.20-03.39.02:683][886]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.39.02:683][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-03.39.02:684][886]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-03.39.02:684][886]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-03.39.02:684][886]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-03.39.02:684][886]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-03.39.02:685][886]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-03.39.02:685][886]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.00 sec)
+[2023.11.20-03.39.02:685][886]LogPlayLevel: PIE: World Init took: (0.002288s)
+[2023.11.20-03.39.02:706][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.11.20-03.39.02:711][886]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.11.20-03.39.02:711][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-03.39.02:711][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-03.39.02:711][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-03.39.02:711][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-03.39.02:711][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-03.39.02:711][886]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-03.39.02:711][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-03.39.02:711][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-03.39.02:712][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-03.39.02:712][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-03.39.02:712][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-03.39.02:714][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-03.39.02:815][886]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.20-03.39.02:815][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-03.39.02:815][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-03.39.02:815][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-03.39.02:816][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.11.20-03.39.02:816][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.11.20-03.39.02:818][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.11.20-03.39.02:818][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.11.20-03.39.02:818][886]LogInit: FAudioDevice initialized with ID 34.
+[2023.11.20-03.39.02:818][886]LogAudio: Display: Audio Device (ID: 34) registered with world 'FirstPersonMap'.
+[2023.11.20-03.39.02:818][886]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2023.11.20-03.39.02:820][886]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-03.39.02:823][886]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.19-22.39.02
+[2023.11.20-03.39.02:824][886]LogWorld: Bringing up level for play took: 0.003212
+[2023.11.20-03.39.02:826][886]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.11.20-03.39.02:829][886]PIE: Server logged in
+[2023.11.20-03.39.02:830][886]PIE: Play in editor total start time 0.155 seconds.
+[2023.11.20-03.39.02:845][886]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.39.02:862][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.39.11:077][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-03.39.11:077][239]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-03.39.11:077][239]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-03.39.11:077][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.39.11:077][239]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-03.39.11:094][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-03.39.11:099][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.39.11:126][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-03.39.11:126][239]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2023.11.20-03.39.11:126][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.11.20-03.39.11:128][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.11.20-03.39.11:137][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-03.39.11:140][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.20-03.39.11:201][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.39.11:210][240]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.11.20-03.39.11:222][240]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.39.15:160][407]Cmd: DELETE
+[2023.11.20-03.39.15:160][407]Cmd: ACTOR DELETE
+[2023.11.20-03.39.15:163][407]LogEditorActor: Deleted Actor: bpc_door_interact_C
+[2023.11.20-03.39.15:190][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.20-03.39.15:194][407]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2023.11.20-03.39.27:361][914]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C
+[2023.11.20-03.39.27:361][914]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C
+[2023.11.20-03.39.27:363][914]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap as actor: BPC_Door_Overlap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Door_Overlap_C_1
+[2023.11.20-03.39.27:366][914]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap as actor: BPC_Door_Overlap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Door_Overlap_C_1
+[2023.11.20-03.39.29:208][  2]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C
+[2023.11.20-03.39.29:208][  2]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C
+[2023.11.20-03.39.29:215][  2]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap as actor: BPC_Door_Overlap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Door_Overlap_C_UAID_105107B09B7601BE01_1222710981
+[2023.11.20-03.39.29:217][  2]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap as actor: BPC_Door_Overlap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Door_Overlap_C_UAID_105107B09B7601BE01_1222710981
+[2023.11.20-03.39.32:634][145]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact_C
+[2023.11.20-03.39.32:634][145]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact_C
+[2023.11.20-03.39.32:636][145]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact as actor: bpc_door_interact_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bpc_door_interact_C_2
+[2023.11.20-03.39.32:639][145]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact as actor: bpc_door_interact_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bpc_door_interact_C_2
+[2023.11.20-03.39.34:050][210]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact_C
+[2023.11.20-03.39.34:051][210]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact_C
+[2023.11.20-03.39.34:056][210]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact as actor: bpc_door_interact_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bpc_door_interact_C_UAID_105107B09B7601BE01_1227552982
+[2023.11.20-03.39.34:059][210]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact as actor: bpc_door_interact_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bpc_door_interact_C_UAID_105107B09B7601BE01_1227552982
+[2023.11.20-03.39.35:798][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.20-03.39.35:812][289]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.20-03.39.35:815][289]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.20-03.39.35:815][289]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.20-03.39.35:815][289]LogWorldPartition: Display: GetPartitionedActors took 14 us (total: 1 ms)
+[2023.11.20-03.39.35:815][289]LogWorldPartition: Display: GenerateStreaming took 314 us (total: 11 ms)
+[2023.11.20-03.39.35:816][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.20-03.39.35:816][289]PIE: New page: PIE session: FirstPersonMap (Nov 19, 2023, 5:39:35 PM)
+[2023.11.20-03.39.35:816][289]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-03.39.35:826][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010208s)
+[2023.11.20-03.39.35:826][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.010250s)
+[2023.11.20-03.39.35:826][289]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.20-03.39.35:827][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.20-03.39.35:827][289]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.20-03.39.35:828][289]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.20-03.39.35:828][289]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.20-03.39.35:828][289]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.20-03.39.35:830][289]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.20-03.39.35:830][289]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.00 sec)
+[2023.11.20-03.39.35:830][289]LogPlayLevel: PIE: World Init took: (0.003945s)
+[2023.11.20-03.39.35:865][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.20-03.39.35:870][289]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.11.20-03.39.35:870][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.20-03.39.35:870][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.20-03.39.35:870][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.20-03.39.35:870][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.20-03.39.35:870][289]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.20-03.39.35:870][289]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.20-03.39.35:870][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.20-03.39.35:870][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.20-03.39.35:870][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.20-03.39.35:870][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.20-03.39.35:871][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.20-03.39.35:873][289]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.20-03.39.36:027][289]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.20-03.39.36:027][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.20-03.39.36:027][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.20-03.39.36:027][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.20-03.39.36:028][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.11.20-03.39.36:028][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.11.20-03.39.36:030][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.11.20-03.39.36:030][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.11.20-03.39.36:030][289]LogInit: FAudioDevice initialized with ID 35.
+[2023.11.20-03.39.36:030][289]LogAudio: Display: Audio Device (ID: 35) registered with world 'FirstPersonMap'.
+[2023.11.20-03.39.36:030][289]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2023.11.20-03.39.36:034][289]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.20-03.39.36:038][289]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.19-22.39.36
+[2023.11.20-03.39.36:038][289]LogWorld: Bringing up level for play took: 0.004417
+[2023.11.20-03.39.36:040][289]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.11.20-03.39.36:046][289]PIE: Server logged in
+[2023.11.20-03.39.36:046][289]PIE: Play in editor total start time 0.234 seconds.
+[2023.11.20-03.39.36:057][289]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.39.36:213][290]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.39.54:037][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-03.39.54:037][107]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.20-03.39.54:037][107]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.20-03.39.54:038][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.39.54:038][107]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.20-03.39.54:062][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.20-03.39.54:067][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.20-03.39.54:098][107]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.20-03.39.54:098][107]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2023.11.20-03.39.54:098][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.11.20-03.39.54:101][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.11.20-03.39.54:113][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.20-03.39.54:117][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.20-03.39.54:216][107]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.39.54:227][108]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.11.20-03.39.54:666][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.20-03.40.05:618][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.20-03.40.05:724][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.20-03.40.05:754][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.20-03.40.05:784][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.20-03.40.05:794][458]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/RS/D4L9W2OPJJUBK7JUWA5UR1
+[2023.11.20-03.40.05:799][458]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/D4L9W2OPJJUBK7JUWA5UR1CC0F85CB448968386560FD8453C77DD6.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/RS/D4L9W2OPJJUBK7JUWA5UR1.uasset'
+[2023.11.20-03.40.05:813][458]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5X/2GD34X6OV5V90KM83X6GNC
+[2023.11.20-03.40.05:813][458]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/2GD34X6OV5V90KM83X6GNC3FA66EA045A0D434297165BB3438A193.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5X/2GD34X6OV5V90KM83X6GNC.uasset'
+[2023.11.20-03.40.05:827][458]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/WH/14KEK8H5PNZO86K3XOHG2T
+[2023.11.20-03.40.05:827][458]LogSavePackage: Moving '../../../../../../temp/cgt545_04_park1187/MyProject2/Saved/14KEK8H5PNZO86K3XOHG2TCD13DFE749BB0A861DECFEA703606504.tmp' to '../../../../../../temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/WH/14KEK8H5PNZO86K3XOHG2T.uasset'
+[2023.11.20-03.40.05:847][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 9.94 sec)
+[2023.11.20-03.40.05:856][458]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.20-03.40.05:856][458]LogContentValidation: Display: Validating /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bpc_door_interact_C_UAID_105107B09B7601BE01_1227552982
+[2023.11.20-03.40.05:856][458]LogContentValidation: Display: Validating /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Door_Overlap_C_UAID_105107B09B7601BE01_1222710981
+[2023.11.20-03.40.05:856][458]LogContentValidation: Display: Validating /Game/Blueprints/Doors/bpc_door_interact.bpc_door_interact_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.bpc_door_interact_C_UAID_105107B09B76FFBD01_2007281627
